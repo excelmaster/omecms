@@ -4,15 +4,15 @@ namespace App\Models;
 
 use CodeIgniter\Model;
 
-class CourseModel extends Model
+class LessonModel extends Model
 {
-    protected $table      = 'ome_courses';
+    protected $table      = 'ome_lessons';
     protected $primaryKey = 'id';    
 
     protected $returnType     = 'array';
     protected $useSoftDeletes = true;
 
-    protected $allowedFields = ['category', 'fullname','idnumber','label'];
+    protected $allowedFields = ['courseId', 'lesson_number','img_url'];
     
     protected $useTimestamps = false;
 

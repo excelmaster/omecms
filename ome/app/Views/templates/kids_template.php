@@ -72,19 +72,19 @@
             <li class="nav-item">
               <a href="https://www.colorear-online.com/" target="blank_" class="nav-link">
                 <img src="<?php echo base_url('public/img/kids/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger" >PAINT ACTIVITY</span>
+                <span class="badge badge-info danger">PAINT ACTIVITY</span>
               </a>
             </li>
             <li class="nav-item">
               <a href="diccionario_k1.html" class="nav-link">
                 <img src="<?php echo base_url('public/img/kids/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger" >DICTIONARY</span>
+                <span class="badge badge-info danger">DICTIONARY</span>
               </a>
             </li>
             <li class="nav-item">
               <a href="../gallery.html" class="nav-link">
                 <img src="<?php echo base_url('public/img/kids/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger" >MUSIC</span>
+                <span class="badge badge-info danger">MUSIC</span>
               </a>
             </li>
           </ul>
@@ -97,17 +97,17 @@
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper bg-transparent">
       <!-- Content Header (Page header) -->
-      <section class="content-header">
+      <!-- <section class="content-header">
         <div class="container-fluid">
           <div class="row mb-2">
             <div class="col-sm-6">
-              <h1>World English for Kids</h1>
+              <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos.gif'); ?>" alt="">
             </div>
             <div class="col-sm-6">
             </div>
           </div>
-        </div><!-- /.container-fluid -->
-      </section>
+        </div>
+      </section> -->
 
       <!-- Main content -->
       <section class="content">
