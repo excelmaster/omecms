@@ -4,59 +4,71 @@ $inactivos = 0;
 
 $this->extend('templates/kids_template');
 $this->section('content');
+?>
 
-echo '<!-- Default box -->';
-echo '<div class="card bg-transparent">';
-echo '<div class="card-header">';
-echo '<div class="col-sm-4 direct-chat-text bg-blue">Escoge el mundo que quieres estudiar!</div>';
-echo '';
-/*echo '<div class="card-tools">';
-echo '<button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">';
-echo '<i class="fas fa-minus"></i>';
-echo '</button>';
-echo '<button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">';
-echo '<i class="fas fa-times"></i>';
-echo '</button>';
-echo '</div>';*/
-echo '</div>';
-echo '<div class="card-body">';
-echo '<div class="row" >'; 
+<!-- Default box -->
+<div class="card bg-transparent">
+    <div class="card-header">
+        <div class="row mb-2">
+            <div class="col-sm-5">
+                <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos_' . $courseId . '.gif'); ?>" alt="">
+            </div>
+            <div class="col-sm-5">
+                <div class="col-sm-4 direct-chat-text bg-blue">Escoge el mundo que quieres estudiar!</div>
+            </div>
+        </div>
+        <!-- <div class="card-tools">
+            <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                <i class="fas fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">
+                <i class="fas fa-times"></i>
+            </button>
+        </div> -->
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <?php
+            foreach ($courses as $c) {
+            ?>
+                <div class="col-sm-2">
+                    <div class="card text-white bg-yellow">
+                        <h5 class="text-center">World <?php echo $c['mundo']; ?></h5>
+                        <a href="<?php echo base_url('lessons/' . $c['id'] . '/' . $c['mundo']); ?>">
+                            <img src="<?php echo base_url('public/img/kids/courses/' . $c['img']); ?>" alt="" class="img-fluid" style="width: 100%;">
+                        </a>
+                    </div>
+                </div>
+            <?php
+                $activos += 1;
+            }
+            $inactivos = $activos + 1;
 
-    foreach ($courses as $c) {               
-        echo '<div class="col-sm-2">';
-        echo '<div class="card text-white bg-yellow" >';
-        echo '<h5 class="text-center">World '.$c['mundo'].'</h5>';
-        echo '<a href="'.base_url('lessons/').'/'.$c['id'].'/'.$c['mundo'].'">';
-        echo '<img src="'.base_url('public/img/kids/courses/'.$c['img']).'" alt="" class="img-fluid" style="width: 100%;">';
-        echo '</a>';
-        echo '</div>';
-        echo '</div>'; 
-        $activos += 1;        
-    }
-    $inactivos= $activos +1;
+            for ($i = $activos; $i < 8; $i++) { ?>
+                <div class="col-sm-2">
+                    <div class="card text-white bg-yellow">
+                        <h5 class="text-center">World <?php echo $inactivos; ?></h5>
+                        <a href="#">
+                            <img src="<?php echo base_url('public/img/kids/courses/mundos.jpg'); ?>" alt="" class="card-fluid fichas" style="width:100%">
+                        </a>
+                    </div>
+                </div>
+            <?php
+                $inactivos += 1;
+            }
+            ?>
 
-    for ($i=$activos; $i < 8; $i++) { 
-        echo '<div class="col-sm-2">';
-        echo '<div class="card text-white bg-yellow">';
-        echo '<h5 class="text-center">World '.$inactivos.'</h5>';
-        echo '<a href="#" >';
-        echo '<img src="'.base_url('public/img/kids/courses/mundos.jpg').'" alt="" class="card-fluid fichas" style="width:100%">';
-        echo '</a>';
-        echo '</div>';
-        echo '</div>';
-        $inactivos += 1;
-    }
-
-echo '</div>';
-echo '</div>';
-echo '<!-- /.card-body -->';
-echo '<div class="card-footer">';
-//echo 'Footer';
-echo '</div>';
-echo '<!-- /.card-footer-->';
-echo '</div>';
-echo '<!-- /.card -->';
-echo '</div>';
-echo '</div>';
-
+        </div>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer">
+        //Footer
+    </div>
+    <!-- /.card-footer-->
+</div>
+<!-- /.card -->
+</div>
+</div>
+<?php
 $this->endSection();
+?>
