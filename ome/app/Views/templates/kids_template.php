@@ -71,20 +71,20 @@
                with font-awesome or any other icon font library -->
             <li class="nav-item">
               <a href="https://www.colorear-online.com/" target="blank_" class="nav-link">
-                <img src="<?php echo base_url('public/img/kids/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger">PAINT ACTIVITY</span>
+                <img src="<?php echo base_url('public/img/kids/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green"><h6>PAINT ACTIVITY</h6></span>
               </a>
             </li>
             <li class="nav-item">
               <a href="diccionario_k1.html" class="nav-link">
-                <img src="<?php echo base_url('public/img/kids/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger">DICTIONARY</span>
+                <img src="<?php echo base_url('public/img/kids/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green"><h6>DICTIONARY</h6></span>
               </a>
             </li>
             <li class="nav-item">
               <a href="../gallery.html" class="nav-link">
-                <img src="<?php echo base_url('public/img/kids/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                <span class="badge badge-info danger">MUSIC</span>
+                <img src="<?php echo base_url('public/img/kids/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green"><h6>MUSIC</h6></span>
               </a>
             </li>
           </ul>
