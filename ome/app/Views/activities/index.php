@@ -14,10 +14,10 @@ $this->section('content');
                 <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
             </div>
             <div class="col-sm-5">
-                <div class="col-sm-4 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
+                <div class="col-sm-4 direct-chat-text bg-blue">Escoge la Actividad que quieres estudiar!</div>
             </div>
             <div class="col-sm-2">
-                <a href="<?php echo base_url('/'); ?>"><img src="<?php echo base_url('public/img/kids/lessons/volver_mundos.gif'); ?>"></a>
+                <a href="<?php echo base_url('lessons/'.$courseId.'/'.$course); ?>"><img src="<?php echo base_url('public/img/kids/activities/volver_leccion.gif'); ?>"></a>
             </div>
         </div>
 
@@ -38,10 +38,13 @@ $this->section('content');
             ?>
                 <div class="col-sm-2">
                     <div class="card text-white bg-yellow">
-                        <h5 class="text-center">LESSON <?php echo $c['lesson_number']; ?></h5>
+                        <h5 class="text-center">Activity <?php echo $c['activityNumber']; ?></h5>
                         <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <a type="button" href="<?php echo base_url('activities/'.$c['id'].'/'.$course.'/'.$c['lesson_number'].'/'.$courseId); ?>">
-                            <img src="<?php echo base_url('public/img/kids/lessons/' . $c['img_url']); ?>" alt="" class="img-fluid rounded">
+                        <form action="contenido.html" method="post"></form>
+                        <?php
+                        echo '<a type="button" class="btn btn-primary" href="' . base_url($c['tipo'] . '.php/' . $c['objectId'] . '/' . $course . '/' . $lesson) . '">';
+                        ?>
+                        <img src="../../assets/thumbs/l1/1_1.png" alt="" class="img-fluid rounded">
                         </a>
                     </div>
                 </div>
@@ -50,7 +53,6 @@ $this->section('content');
             }
             $inactivos = $activos + 1;
             ?>
-
         </div>
 
     </div>

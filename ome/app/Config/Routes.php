@@ -34,7 +34,7 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'courses_k::index');
 $routes->get('lessons/(:num)/(:num)', 'lessons_k::index/$1/$2');
-
+$routes->get('activities/(:num)/(:num)/(:num)/(:num)', 'activities_k::index/$1/$2/$3/$4');
 
 /*
  * --------------------------------------------------------------------
