@@ -62,7 +62,7 @@ $this->section('content');
     </div>
     <!-- /.card-body -->
     <div class="card-footer">
-        //Footer
+        <!-- //Footer -->
     </div>
     <!-- /.card-footer-->
 </div>

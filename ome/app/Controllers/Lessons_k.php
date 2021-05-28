@@ -9,7 +9,11 @@ class Lessons_k extends BaseController
 	{
 		$lessonsInstance = new LessonModel($db);
 		$lessons = $lessonsInstance->where('courseId',$courseId)->findAll();
-		$lessons = array('lessons'=>$lessons, 'course'=>$courseNumber);	
+		$lessons = array(			
+			'lessons'=>$lessons, 
+			'course'=>$courseNumber,
+			'courseId'=>$courseId
+		);	
 		return view('lessons/index',$lessons) ;
 	}
 
