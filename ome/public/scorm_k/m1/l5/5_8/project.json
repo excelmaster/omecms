@@ -1,0 +1,34 @@
+{
+  "title": "rom_cuerpo",
+  "date": "28/01/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "rom_cuerpo.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 8,
+  "totalSize": 167470,
+  "files": [
+    "ROMPECABEZAS CUERPO CORRE.jclic",
+    "ROMPECABEZAS CUERPO CORRE.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "original-resized-rom_cuerpo.jpg",
+    "original-resized.jpg",
+    "paisa-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rom_cuerpo.jclic",
+    "rom_cuerpo.jclic.js"
+  ]
+}

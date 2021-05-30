@@ -35,6 +35,7 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'courses_k::index');
 $routes->get('lessons/(:num)/(:num)', 'lessons_k::index/$1/$2');
 $routes->get('activities/(:num)/(:num)/(:num)/(:num)', 'activities_k::index/$1/$2/$3/$4');
+$routes->get('content/(:num)/(:num)/(:num)/(:num)/(:num)/(:any)/(:num)', 'content::index/$1/$2/$3/$4/$5/$6/$7');
 
 /*
  * --------------------------------------------------------------------
