@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost/2021/cursos/ci4/omecms/ome/';
+	public $baseURL = 'https://form.mundoeducativodigital.com/';
 
 	/**
 	 * --------------------------------------------------------------------------
