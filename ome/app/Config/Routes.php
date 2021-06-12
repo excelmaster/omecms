@@ -18,7 +18,7 @@ if (file_exists(SYSTEMPATH . 'Config/Routes.php'))
  * --------------------------------------------------------------------
  */
 $routes->setDefaultNamespace('App\Controllers');
-$routes->setDefaultController('Courses_k');
+$routes->setDefaultController('Main');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override();
@@ -32,7 +32,7 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Courses_k::index');
+$routes->get('/', 'Main::index');
 $routes->get('/lessons/(:num)/(:num)', 'Lessons_k::index/$1/$2');
 $routes->get('/activities/(:num)/(:num)/(:num)/(:num)', 'Activities_k::index/$1/$2/$3/$4');
 $routes->get('/content/(:num)/(:num)/(:num)/(:num)/(:num)/(:any)/(:num)', 'Content::index/$1/$2/$3/$4/$5/$6/$7');
