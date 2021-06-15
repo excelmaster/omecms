@@ -14,10 +14,10 @@ $this->section('content');
         <img class="img-fluid" src="<?php echo base_url('public/img/'.$site. '/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
       </div>
       <div class="col-sm-5">
-        <div class="col-sm-4 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
+        <div class="col-sm-10 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
       </div>
       <div class="col-sm-2">
-        <a href="<?php echo base_url('activities/' . $site . '/' . $lessonId . '/' . $course . '/' . $lesson . '/' . $courseId); ?>"><img src="<?php echo base_url('public/img/'.$site. '/content/volver_actividad.gif'); ?>"></a>
+        <a href="<?php echo base_url('activities/' . $site . '/' . $lessonId . '/' . $course . '/' . $lesson . '/' . $courseId); ?>"><img style="height: 80;width: 80" src="<?php echo base_url('public/img/'.$site. '/content/volver_actividad.gif'); ?>"></a>
       </div>
     </div>
 
