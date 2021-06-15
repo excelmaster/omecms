@@ -49,9 +49,9 @@ $this->section('content');
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center">World <?php echo $inactivos; ?></h5>
                         <a href="#">
-                            <img src="<?php echo base_url('public/img/' . $site . '/courses/mundos.jpg'); ?>" alt="" class="card-fluid fichas" style="width:100%">
+                            <img src="<?php echo base_url('public/img/' . $site . '/courses/' . $c['img']); ?>" alt="" class="card-fluid fichas" style="width:100%">
                         </a>
-                    </div>
+                    </div>git 
                 </div>
             <?php
                 $inactivos += 1;
