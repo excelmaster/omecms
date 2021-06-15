@@ -70,8 +70,7 @@ $this->section('content');
 </div>
 
 <!-- /.card -->
-</div>
-</div>
+
 
 <?php
 $this->endSection();
