@@ -2,7 +2,7 @@
 $activos = 0;
 $inactivos = 0;
 
-$this->extend('templates/kids_template');
+$this->extend('templates/template', $site);
 $this->section('content');
 ?>
 
@@ -11,10 +11,10 @@ $this->section('content');
     <div class="card-header">
         <div class="row mb-2">
             <div class="col-sm-5">
-                <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos_' . $courseId . '.gif'); ?>" alt="">
+                <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos_' . $courseId . '.gif'); ?>" alt="">
             </div>
             <div class="col-sm-5">
-                <div class="col-sm-4 direct-chat-text bg-blue">Escoge el mundo que quieres estudiar!</div>
+                <div class="col-sm-8 direct-chat-text bg-blue">Escoge el mundo que quieres estudiar!</div>
             </div>
         </div>
         <!-- <div class="card-tools">
@@ -34,8 +34,8 @@ $this->section('content');
                 <div class="col-sm-2">
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center">World <?php echo $c['mundo']; ?></h5>
-                        <a href="<?php echo base_url('lessons/' . $c['id'] . '/' . $c['mundo']); ?>">
-                            <img src="<?php echo base_url('public/img/kids/courses/' . $c['img']); ?>" alt="" class="img-fluid" style="width: 100%;">
+                        <a href="<?php echo base_url('lessons/' . $site . '/' . $c['id'] . '/' . $c['mundo']); ?>">
+                            <img src="<?php echo base_url('public/img/' . $site . '/courses/' . $c['img']); ?>" alt="" class="img-fluid" style="width: 100%;">
                         </a>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ $this->section('content');
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center">World <?php echo $inactivos; ?></h5>
                         <a href="#">
-                            <img src="<?php echo base_url('public/img/kids/courses/mundos.jpg'); ?>" alt="" class="card-fluid fichas" style="width:100%">
+                            <img src="<?php echo base_url('public/img/' . $site . '/courses/mundos.jpg'); ?>" alt="" class="card-fluid fichas" style="width:100%">
                         </a>
                     </div>
                 </div>
