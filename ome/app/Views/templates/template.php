@@ -180,7 +180,7 @@
 
     function sonido() {
       if (myAudio.paused) {
-        icono.setAttribute("src", "<?php echo base_url('public/img/'.$site.'/template/no_volume.PNG'); ?>");
+        icono.setAttribute("src", "<?php echo base_url('public/img/'.$site.'/template/footer_no_volume.PNG'); ?>");
         myAudio.play();
         myAudio.loop = true;
       } else {

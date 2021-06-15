@@ -14,7 +14,7 @@ $this->section('content');
                 <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
             </div>
             <div class="col-sm-5">
-                <div class="col-sm-7 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
+                <div class="col-sm-10 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
             </div>
             <div class="col-sm-2">
                 <a href="<?php echo base_url('courses/' . $site); ?>"><img src="<?php echo base_url('public/img/' . $site . '/lessons/volver_mundos.gif'); ?>"></a>
