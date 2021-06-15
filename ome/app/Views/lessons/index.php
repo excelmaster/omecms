@@ -2,7 +2,7 @@
 $activos = 0;
 $inactivos = 0;
 
-$this->extend('templates/kids_template');
+$this->extend('templates/template');
 $this->section('content');
 ?>
 
@@ -11,13 +11,13 @@ $this->section('content');
     <div class="card-header">
         <div class="row mb-2">
             <div class="col-sm-5">
-                <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
+                <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
             </div>
             <div class="col-sm-5">
-                <div class="col-sm-4 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
+                <div class="col-sm-7 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
             </div>
             <div class="col-sm-2">
-                <a href="<?php echo base_url('/'); ?>"><img src="<?php echo base_url('public/img/kids/lessons/volver_mundos.gif'); ?>"></a>
+                <a href="<?php echo base_url('courses/' . $site); ?>"><img src="<?php echo base_url('public/img/' . $site . '/lessons/volver_mundos.gif'); ?>"></a>
             </div>
         </div>
 
@@ -40,8 +40,8 @@ $this->section('content');
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center">LESSON <?php echo $c['lesson_number']; ?></h5>
                         <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <a type="button" href="<?php echo base_url('activities/'.$c['id'].'/'.$course.'/'.$c['lesson_number'].'/'.$courseId); ?>">
-                            <img src="<?php echo base_url('public/img/kids/lessons/' . $c['img_url']); ?>" alt="" class="img-fluid rounded">
+                        <a type="button" href="<?php echo base_url('activities/' . $site . '/' . $c['id'] . '/' . $course . '/' . $c['lesson_number'] . '/' . $courseId); ?>">
+                            <img src="<?php echo base_url('public/img/' . $site . '/lessons/' . $c['img_url']); ?>" alt="" class="img-fluid rounded">
                         </a>
                     </div>
                 </div>

@@ -2,7 +2,7 @@
 $activos = 0;
 $inactivos = 0;
 
-$this->extend('templates/kids_template');
+$this->extend('templates/template');
 $this->section('content');
 ?>
 
@@ -11,13 +11,13 @@ $this->section('content');
   <div class="card-header">
     <div class="row mb-2">
       <div class="col-sm-5">
-        <img class="img-fluid" src="<?php echo base_url('public/img/kids/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
+        <img class="img-fluid" src="<?php echo base_url('public/img/'.$site. '/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
       </div>
       <div class="col-sm-5">
         <div class="col-sm-4 direct-chat-text bg-blue">Escoge la lección que quieres estudiar!</div>
       </div>
       <div class="col-sm-2">
-        <a href="<?php echo base_url('activities/' . $lessonId . '/' . $course . '/' . $lesson . '/' . $courseId); ?>"><img src="<?php echo base_url('public/img/kids/content/volver_actividad.gif'); ?>"></a>
+        <a href="<?php echo base_url('activities/' . $site . '/' . $lessonId . '/' . $course . '/' . $lesson . '/' . $courseId); ?>"><img src="<?php echo base_url('public/img/'.$site. '/content/volver_actividad.gif'); ?>"></a>
       </div>
     </div>
 
@@ -43,7 +43,7 @@ $this->section('content');
             break;
 
           case 'scorm':
-            echo '<iframe src="https://content.mundoeducativodigital.com/scorm_k/m'.$course.'/l'.$lesson.'/'.$lesson.'_'.$activity.'/index.html#/cover" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+            echo '<iframe src="https://content.mundoeducativodigital.com/scorm_'.$site.'/m'.$course.'/l'.$lesson.'/'.$lesson.'_'.$activity.'/index.html#/cover" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
             break;
           
           case 'resource':
