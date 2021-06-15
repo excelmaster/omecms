@@ -29,7 +29,7 @@
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" data-widget="pushmenu" href="#" role="button">
-            <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_menu.gif'); ?>" style="width: 1.5cm; height: 1cm; "></a>            
+            <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_menu.gif'); ?>" style="width: 1.5cm; height: 1cm; ">           
           </a>
         </li>
       </ul>

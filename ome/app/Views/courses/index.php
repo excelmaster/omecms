@@ -67,8 +67,6 @@ $this->section('content');
     <!-- /.card-footer-->
 </div>
 <!-- /.card -->
-</div>
-</div>
 <?php
 $this->endSection();
 ?>
