@@ -38,7 +38,8 @@ $routes->get('/courses/(:any)/', 'Courses::index/$1');
 $routes->get('/lessons/(:any)/(:num)/(:num)', 'Lessons::index/$1/$2/$3');
 $routes->get('/activities/(:any)/(:num)/(:num)/(:num)/(:num)', 'Activities::index/$1/$2/$3/$4/$5');
 $routes->get('/content/(:any)/(:num)/(:num)/(:num)/(:num)/(:num)/(:any)/(:num)', 'Content::index/$1/$2/$3/$4/$5/$6/$7/$8');
-
+$routes->get('/dict/(:any)/', 'Dict::index/$1');
+$routes->get('/letter/(:any)/(:any)/', 'Dict::letter/$1/$2');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

@@ -76,11 +76,11 @@
               </a>
             </li>
             <li class="nav-item">
-              <a href="diccionario_k1.html" class="nav-link">
+              <a href="<?php echo base_url('dict/' . $site);  ?>" class="nav-link">
                 <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
                 <span class="badge badge-info bg-green"><h6>DICTIONARY</h6></span>
               </a>
-            </li>
+            </li>            
             <li class="nav-item">
               <?php 
               if ($site == 'kids'){
@@ -91,6 +91,12 @@
               ?>
                 <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
                 <span class="badge badge-info bg-green"><h6>MUSIC</h6></span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://api.whatsapp.com/send/?phone=3228315698&text=Necesito+soporte+de+la+plataforma&app_absent=0" class="nav-link" target="_blank">
+                <img src="<?php echo base_url('public/img/'.$site.'/template/whatsapp_logo.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green"><h6>SUPPORT</h6></span>
               </a>
             </li>
           </ul>
