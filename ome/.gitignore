@@ -125,3 +125,4 @@ nb-configuration.xml
 /.phpunit.*.cache
 public/scorm_kids/
 public/scorm_teens/
+public/scorm_k/
