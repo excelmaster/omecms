@@ -123,4 +123,5 @@ nb-configuration.xml
 /results/
 /phpunit*.xml
 /.phpunit.*.cache
-public/scorm_k/
+public/scorm_kids/
+public/scorm_teens/

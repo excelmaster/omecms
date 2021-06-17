@@ -51,7 +51,7 @@ $this->section('content');
                         <a href="#">
                             <img src="<?php echo base_url('public/img/' . $site . '/courses/' . $c['img']); ?>" alt="" class="card-fluid fichas" style="width:100%">
                         </a>
-                    </div>git 
+                    </div>
                 </div>
             <?php
                 $inactivos += 1;

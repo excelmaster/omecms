@@ -82,7 +82,13 @@
               </a>
             </li>
             <li class="nav-item">
-              <a href="../gallery.html" class="nav-link">
+              <?php 
+              if ($site == 'kids'){
+                echo '<a href="https://www.youtube.com/watch?v=TN0u_-msioQ" class="nav-link" target="blank_">';
+              } else {
+                echo '<a href="https://www.youtube.com/watch?v=9AYl10qxc0M" class="nav-link" target="blank_">';
+              }
+              ?>
                 <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
                 <span class="badge badge-info bg-green"><h6>MUSIC</h6></span>
               </a>
