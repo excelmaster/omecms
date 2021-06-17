@@ -11,14 +11,15 @@ $this->section('content');
         <div class="row mb-2">
             <div class="col-sm-5">
                 <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos_' . $course . '.gif'); ?>" alt="">
+                
+            </div>
+            <div class="col-sm-5">
+                <div class="direct-chat-msg">
+                    <div class="direct-chat-text text-primary"><b> <?php echo 'MUNDO ' . $course . '   >>   LECCIÓN ' . $lesson; ?></b></div>
+                </div>
                 <div class="col-sm-10 direct-chat-text bg-blue">Escoge la Actividad que quieres estudiar!</div>
             </div>
-            <div class="col-sm-4">
-                <div class="direct-chat-msg">
-                    <div class="direct-chat-text bg-transparent text-primary"><b> <?php echo 'MUNDO ' . $course . '   >>   LECCIÓN ' . $lesson; ?></b></div>
-                </div>
-            </div>
-            <div class="col-sm-3">
+            <div class="col-sm-2">
                 <a href="<?php echo base_url('lessons/' . $site . '/' . $courseId . '/' . $course); ?>"><img src="<?php echo base_url('public/img/' . $site . '/activities/volver_leccion.gif'); ?>"></a>
             </div>
         </div>
