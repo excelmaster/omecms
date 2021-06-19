@@ -17,7 +17,7 @@ $this->section('content');
                 <div class="col-sm-10 direct-chat-text bg-blue">Mira el vocabulario de la letra <?php echo strtoupper($letter) ;  ?>  </div>
             </div>
             <div class="col-sm-2">
-                <a href="<?php echo base_url('courses/' . $site); ?>"><img src="<?php echo base_url('public/img/'. $site . '/dict/ir_dict.gif') ?>"></a>
+                <a href="<?php echo base_url('dict/' . $site); ?>"><img src="<?php echo base_url('public/img/'. $site . '/dict/ir_dict.gif') ?>"></a>
             </div>
         </div>
         <!-- <div class="card-tools">
@@ -37,7 +37,7 @@ $this->section('content');
                 <div class="col-sm-2">
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center"> <?php echo strtoupper($d['termino']) ; ?></h5>                        
-                        <img src="<?php echo base_url('public/img/' . $site . '/dict/' . $letter . '/' . $d['termino'] . '.png') ; ?>" alt="" class="img-fluid" style="width: 100%;">                        
+                        <img src="<?php echo base_url('public/img/' . $site . '/dict/' . $letter . '/' . str_replace(' ','_', $d['termino']) . '.png') ; ?>" alt="" class="img-fluid" style="width: 100%;">                        
                     </div>
                 </div>
             <?php
