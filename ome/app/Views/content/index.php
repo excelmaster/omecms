@@ -43,7 +43,7 @@ $this->section('content');
             break;
 
           case 'scorm':
-            echo '<iframe src="https://content.mundoeducativodigital.com/scorm_'.$site.'/m'.$course.'/l'.$lesson.'/'.$lesson.'_'.$activity.'/index.html#/cover" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+            echo '<iframe src="'. base_url() . '/scorm/'.$site.'/'.$course.'/'.$lesson.'/'.$activity .'" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
             break;
           
           case 'resource':
