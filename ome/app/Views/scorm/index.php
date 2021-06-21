@@ -2,8 +2,8 @@
 $activos = 0;
 $inactivos = 0;
 
-$this->extend('templates/template');
-
+//$this->extend('templates/template');
+$this->extend('templates/template_scorm');
 $this->section('content');
 ?>
 
@@ -25,7 +25,9 @@ $this->section('content');
     <div class="row">
       <div class="col-xl-12">
         <?php
-        echo '<iframe src="' . base_url() . '/scorm/' . $site . '/m' . $course . '/l' . $lesson . '/' . $lesson . '_' . $activity . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+        //echo '<iframe src="' . base_url() . '/scorm/' . $site . '/m' . $course . '/l' . $lesson . '/' . $lesson . '_' . $activity . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+        echo 'dibuja sitio';
+        require_once(base_url('/scorm/' . $site . '/m' . $course . '/l' . $lesson . '/' . $lesson . '_' . $activity . '/index.html' ));
         ?>
 
       </div>
