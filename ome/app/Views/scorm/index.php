@@ -27,7 +27,7 @@ $this->section('content');
         <?php
         //echo '<iframe src="' . base_url() . '/scorm/' . $site . '/m' . $course . '/l' . $lesson . '/' . $lesson . '_' . $activity . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
         echo 'dibuja sitio';
-        require_once(base_url('/scorm/' . $site . '/m' . $course . '/l' . $lesson . '/' . $lesson . '_' . $activity . '/index.html' ));
+        return view('../m4/l1/1_3');
         ?>
 
       </div>

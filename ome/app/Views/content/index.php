@@ -43,7 +43,9 @@ $this->section('content');
             break;
 
           case 'scorm':
-            echo '<iframe src="'. base_url() . '/scorm/'.$site.'/'.$course.'/'.$lesson.'/'.$activity .'" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+            //return view('../m4/l1/1_3/index.html');
+            //echo '<h1>carga vista</h1>';
+            echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/scorm/view.php?id=' . $objectId . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
             break;
           
           case 'resource':
