@@ -99,6 +99,12 @@
                 <span class="badge badge-info bg-green"><h6>SUPPORT</h6></span>
               </a>
             </li>
+            <li class="nav-item">
+              <a href="<?php echo base_url('faq/'.$site); ?>" class="nav-link">
+                <img src="<?php echo base_url('public/img/'.$site.'/template/faq.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green"><h6>PREGUNTAS?</h6></span>
+              </a>
+            </li>
           </ul>
         </nav>
         <!-- /.sidebar-menu -->
