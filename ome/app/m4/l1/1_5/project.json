@@ -1,0 +1,52 @@
+{
+  "title": "continentes_jclic",
+  "date": "31/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "continentes_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 638585,
+  "files": [
+    "africa.mp3",
+    "antarctica.mp3",
+    "asia.mp3",
+    "captura-resized.jpg",
+    "continentes_jclic.jclic",
+    "continentes_jclic.jclic.js",
+    "europe.mp3",
+    "favicon.ico",
+    "ficha-resized1.jpg",
+    "ficha__1_-resized1.jpg",
+    "ficha__2_-resized1.jpg",
+    "ficha__3_-resized1.jpg",
+    "ficha__4_-resized1.jpg",
+    "ficha__5_-resized1.jpg",
+    "ficha__6_-resized1.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image-resized1.jpg",
+    "image__1_-resized1.jpg",
+    "image__2_-resized2.jpg",
+    "image__3_-resized1.jpg",
+    "image__4_-resized1.jpg",
+    "image__5_-resized1.jpg",
+    "image__6_-resized1.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "northamerica.mp3",
+    "oceania.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "south_america.mp3"
+  ]
+}

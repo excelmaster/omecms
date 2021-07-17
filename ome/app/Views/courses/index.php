@@ -46,7 +46,7 @@ $this->section('content');
 
             for ($i = $activos; $i < 8; $i++) { ?>
                 <div class="col-sm-2">
-                    <div class="card text-white bg-yellow">
+                    <div class="card text-white bg-gray">
                         <h5 class="text-center">World <?php echo $inactivos; ?></h5>
                         <a href="#">
                             <img src="<?php echo base_url('public/img/' . $site . '/courses/' . $c['img']); ?>" alt="" class="card-fluid fichas" style="width:100%">

@@ -41,6 +41,7 @@ $routes->get('/content/(:any)/(:num)/(:num)/(:num)/(:num)/(:num)/(:any)/(:num)',
 $routes->get('/dict/(:any)/', 'Dict::index/$1');
 $routes->get('/letter/(:any)/(:any)/', 'Dict::letter/$1/$2');
 $routes->get('/scorm/(:any)/(:num)/(:num)/(:num)', 'Scorm::index/$1/$2/$3/$4');
+$routes->get('/faq/(:any)', 'Faq::index/$1');
 /*
  * --------------------------------------------------------------------
  * Additional Routing
