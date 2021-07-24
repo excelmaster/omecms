@@ -45,7 +45,10 @@ $this->section('content');
           case 'scorm':
             //return view('../m4/l1/1_3/index.html');
             //echo '<h1>carga vista</h1>';
-            echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/scorm/view.php?id=' . $objectId . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+            //echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/scorm/view.php?id=' . $objectId . '" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
+            $ruta = 'public/scorm_'.$site.'/m'.$course.'/l'.$lesson.'/'.$lesson.'_'.$activity.'/index.html';
+            //echo $ruta;
+            echo '<iframe src="'.base_url($ruta).'" class="embed-responsive-item" style="width: 900px;height:530px;"></iframe>';
             //echo '<iframe src="https://content.mundoeducativodigital.com/scorm_kids/m1/l1/1_2/#/cover" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>';
             break;
           
