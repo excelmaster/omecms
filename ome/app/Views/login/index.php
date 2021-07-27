@@ -32,7 +32,7 @@
 
 				<form action="main" method="post">
 					<div class="input-group mb-3">
-						<input type="text" class="form-control" placeholder="Nobre de usuario">
+						<input type="text" name="username" id="username" class="form-control" placeholder="Nobre de usuario">
 						<div class="input-group-append">
 							<div class="input-group-text">
 								<span class="fas fa-envelope"></span>
@@ -40,7 +40,7 @@
 						</div>
 					</div>
 					<div class="input-group mb-3">
-						<input type="password" class="form-control" placeholder="Contraseña">
+						<input type="password" name="password" id="password" class="form-control" placeholder="Contraseña">
 						<div class="input-group-append">
 							<div class="input-group-text">
 								<span class="fas fa-lock"></span>
@@ -52,7 +52,7 @@
 						</div>
 						<!-- /.col -->
 						<div class="col-4">
-							<button type="submit" class="btn btn-primary btn-block">INGRESAR</button>
+							<button type="submit" class="btn btn-primary btn-block" id="loginbtn">INGRESAR</button>
 						</div>
 						<!-- /.col -->
 					</div>
