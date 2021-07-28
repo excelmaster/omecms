@@ -53,7 +53,7 @@ $colvideo = array(
             break;
 
           case 'resource':
-            echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/resource/view.php?id=' . $objectId . '" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>';
+            echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/resource/view.php?id=' . $objectId . '" width="838" height="503" frameborder="0" allowfullscreen="allowfullscreen"></iframe>';
             echo '<script src="https://mdl.mundoeducativodigital.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>';
             break;
 
