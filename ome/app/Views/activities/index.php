@@ -43,7 +43,7 @@ $this->section('content');
                         <img class="card-img-top" src="holder.js/100px180/" alt="">
                         <form action="contenido.html" method="post"></form>
                         <?php
-                        echo '<a type="button" class="btn btn-primary" href="' . base_url('content/' . $site . '/' . $c['objectId'] . '/' . $c['lessonId'] . '/' . $course . '/' . $lesson . '/' . $courseId . '/' . $c['tipo'] . '/' . $c['activityNumber']) . '">';
+                        echo '<a type="button" class="btn btn-primary" href="' . base_url('content/' . $site . '/' . $c['objectId'] . '/' . $c['lessonId'] . '/' . $course . '/' . $lesson . '/' . $courseId . '/' . $c['tipo'] . '/' . $c['activityNumber']) .'/'.str_replace('.png','',$c['img_path']). '">';
                         ?>
                         <img src="<?php echo base_url('public/img/' . $site . '/activities/cards/' . $c['img_path']) ?>" alt="" class="img-fluid rounded">
                         </a>

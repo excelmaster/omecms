@@ -4,24 +4,34 @@ $inactivos = 0;
 
 $this->extend('templates/template');
 $this->section('content');
-
+$colvideo = array(
+  'a' => 4,
+  'b' => 5,
+  'c' => 2,
+  'd' => 1
+);
 ?>
 
 <!-- Default box -->
 <div class="card bg-transparent">
   <div class="card-header">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-<?php echo $colvideo['a'] ?>">
         <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos_' . $course . '.gif'); ?>" alt="" style="height: 70%;width: 70%">
       </div>
-      <div class="col-md-5">
-        <a href="#"><img class="bg-gradient-white" src="<?php echo base_url('public/img/' . $site . '/content/videos.gif'); ?>"></a>
+      <div class="col-md-<?php echo $colvideo['b'] ?>">
+        <?php
+        if ($source == 'video') {
+          echo '<a href="#"><img class="bg-gradient-white" src="' . base_url('public/img/' . $site . '/content/videos.gif') . '"></a>';
+        } else {
+          echo '<img></img>';
+        };
+        ?>
       </div>
-      <div class="col-md-2">
-        <div class="col-sm-10 direct-chat-text bg-blue"><?php echo 'Lesson ' . $lesson . ' - Activity ' . $activity; ?></div>
-        
+      <div class="col-md-<?php echo $colvideo['c'] ?>">
+        <div class="col-sm-10 direct-chat-text bg-blue"><?php echo 'Lesson ' . $lesson . ' - Activity ' . $activity . ':: ' . $source; ?></div>
       </div>
-      <div class="col-md-1">
+      <div class="col-md-<?php echo $colvideo['d'] ?>">
         <a href="<?php echo base_url('activities/' . $site . '/' . $lessonId . '/' . $course . '/' . $lesson . '/' . $courseId); ?>"><img style="height: 80%;width: 80%" src="<?php echo base_url('public/img/' . $site . '/content/volver_actividad.gif'); ?>"></a>
       </div>
     </div>

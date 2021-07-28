@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class Content extends BaseController
 {
-	public function index($site, $objectId, $lessonId, $courseNumber, $lessonNumber, $courseId, $tipo, $activity)
+	public function index($site, $objectId, $lessonId, $courseNumber, $lessonNumber, $courseId, $tipo, $activity, $Source)
 	{
 		$contentData = array(
 			'objectId' => $objectId, 
@@ -14,7 +14,8 @@ class Content extends BaseController
 			'lessonId' => $lessonId,
 			'tipo' => $tipo,
 			'activity' => $activity,
-			'site' => $site
+			'site' => $site,
+			'source' => $Source
 		);
 		return view('content/index', $contentData);
 	}
