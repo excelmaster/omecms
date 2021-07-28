@@ -4,6 +4,7 @@ $inactivos = 0;
 
 $this->extend('templates/template');
 $this->section('content');
+
 ?>
 
 <!-- Default box -->
