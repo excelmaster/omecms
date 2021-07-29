@@ -39,7 +39,7 @@ $colvideo = array(
   <div class="card-body">
 
     <div class="row">
-      <div class="col-lg-12">
+      <div class="col-xl-12">
         <?php
         switch ($tipo) {
           case 'hvp':
@@ -53,7 +53,7 @@ $colvideo = array(
             break;
 
           case 'resource':
-            echo '<iframe src="https://mdl.mundoeducativodigital.com/mod/resource/view.php?id=' . $objectId . '" width="838" height="503" frameborder="0" allowfullscreen="allowfullscreen"></iframe>';
+            echo '<iframe src="'.$urlresource.'" width="838" height="503" frameborder="0" allowfullscreen="allowfullscreen"></iframe>';
             echo '<script src="https://mdl.mundoeducativodigital.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>';
             break;
 
