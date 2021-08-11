@@ -13,12 +13,13 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo base_url('public/assets/dist/css/adminlte.min.css'); ?>">
   <link rel="stylesheet" href="<?php echo base_url('public/assets/css/modules.css'); ?>">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
-<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url(<?php echo base_url('public/img/'.$site.'/template/bcg_template.jpg'); ?>);height: auto;">
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url(<?php echo base_url('public/img/' . $site . '/template/bcg_template.jpg'); ?>);height: auto;">
   <!-- video background -->
   <video autoplay muted loop id="myVideo">
-    <source src="<?php echo base_url('public/img/'.$site.'/template/video_back.mp4'); ?>" type="video/mp4">
+    <source src="<?php echo base_url('public/img/' . $site . '/template/video_back.mp4'); ?>" type="video/mp4">
     Your browser does not support HTML5 video.
   </video>
   <!-- Site wrapper -->
@@ -29,7 +30,7 @@
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" data-widget="pushmenu" href="#" role="button">
-            <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_menu.gif'); ?>" style="width: 1.5cm; height: 1cm; ">           
+            <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_menu.gif'); ?>" style="width: 1.5cm; height: 1cm; ">
           </a>
         </li>
       </ul>
@@ -49,7 +50,7 @@
     <aside class="main-sidebar sidebar-dark-primary elevation-4 bg-transparent">
       <!-- Brand Logo -->
       <a href="<?php echo base_url('courses/' . $site); ?>" class="brand-link">
-        <img src="<?php echo base_url('public/img/'.$site.'/template/logo.PNG'); ?>" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+        <img src="<?php echo base_url('public/img/' . $site . '/template/logo.PNG'); ?>" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
         <span class="brand-text font-weight-light">Mundo Educativo</span>
       </a>
 
@@ -71,38 +72,48 @@
                with font-awesome or any other icon font library -->
             <li class="nav-item">
               <a href="https://www.colorear-online.com/" target="blank_" class="nav-link">
-                <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green"><h6>PAINT ACTIVITY</h6></span>
+                <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_2s" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green">
+                  <h6>PAINT ACTIVITY</h6>
+                </span>
               </a>
             </li>
             <li class="nav-item">
               <a href="<?php echo base_url('dict/' . $site);  ?>" class="nav-link">
-                <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green"><h6>DICTIONARY</h6></span>
+                <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green">
+                  <h6>DICTIONARY</h6>
+                </span>
               </a>
-            </li>            
+            </li>
             <li class="nav-item">
-              <?php 
-              if ($site == 'kids'){
+              <?php
+              if ($site == 'kids') {
                 echo '<a href="https://www.youtube.com/watch?v=TN0u_-msioQ" class="nav-link" target="blank_">';
               } else {
                 echo '<a href="https://www.youtube.com/watch?v=9AYl10qxc0M" class="nav-link" target="blank_">';
               }
               ?>
-                <img src="<?php echo base_url('public/img/'.$site.'/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green"><h6>MUSIC</h6></span>
+              <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+              <span class="badge badge-info bg-green">
+                <h6>MUSIC</h6>
+              </span>
               </a>
             </li>
             <li class="nav-item">
               <a href="https://api.whatsapp.com/send/?phone=3228315698&text=Necesito+soporte+de+la+plataforma&app_absent=0" class="nav-link" target="_blank">
-                <img src="<?php echo base_url('public/img/'.$site.'/template/whatsapp_logo.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green"><h6>SUPPORT</h6></span>
+                <img src="<?php echo base_url('public/img/' . $site . '/template/whatsapp_logo.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green">
+                  <h6>SUPPORT</h6>
+                </span>
               </a>
             </li>
             <li class="nav-item">
-              <a href="<?php echo base_url('faq/'.$site); ?>" class="nav-link">
-                <img src="<?php echo base_url('public/img/'.$site.'/template/faq.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green"><h6>PREGUNTAS?</h6></span>
+              <a href="<?php echo base_url('faq/' . $site); ?>" class="nav-link">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/faq.png'); ?>" class="img-thumbnail img-fluid img-circle" style="width: 70px; height: 70px; ">
+                <span class="badge badge-info bg-green">
+                  <h6>PREGUNTAS?</h6>
+                </span>
               </a>
             </li>
           </ul>
@@ -119,7 +130,7 @@
         <div class="container-fluid">
           <div class="row mb-2">
             <div class="col-sm-6">
-              <img class="img-fluid" src="<?php echo base_url('public/img/'.$site.'/template/bienvenidos.gif'); ?>" alt="">
+              <img class="img-fluid" src="<?php echo base_url('public/img/' . $site . '/template/bienvenidos.gif'); ?>" alt="">
             </div>
             <div class="col-sm-6">
             </div>
@@ -145,23 +156,23 @@
         <div class="row float-left">
           <div class="col sm-6">
             <a class="button" onclick="sonido()" style="width: 100px;">
-              <img src="<?php echo base_url('public/img/'.$site.'/template/footer_no_volume.PNG'); ?>" id="volume" class="img-thumbnail img-fluid" style="width: 70px; height: 70px;  ">
+              <img src="<?php echo base_url('public/img/' . $site . '/template/footer_no_volume.PNG'); ?>" id="volume" class="img-thumbnail img-fluid" style="width: 70px; height: 70px;  ">
             </a>
           </div>
           <div class="col sm-3">
             <audio id="myAudio" autoplay preload="auto" allow="autoplay">
-              <source src="<?php echo base_url('public/sound/'.$site.'/sound_body_rdc.mp3'); ?>" type="audio/mpeg">
+              <source src="<?php echo base_url('public/sound/' . $site . '/sound_body_rdc.mp3'); ?>" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio><br>
           </div>
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
-            <img src="<?php echo base_url('public/img/'.$site.'/template/footer_selector.gif'); ?>" class="img-thumbnail img-circle" style="width: 50px; height: 50px;" alt="">
+            <img src="<?php echo base_url('public/img/' . $site . '/template/footer_selector.gif'); ?>" class="img-thumbnail img-circle" style="width: 50px; height: 50px;" alt="">
           </a>
         </div>
       </div>
 
       <button class="openbtn" onclick="openNav()">
-        <img src="<?php echo base_url('public/img/'.$site.'/template/footer_selector.gif'); ?>" class="img-thumbnail img-circle" style="width: 50px; height: 50px; ">
+        <img src="<?php echo base_url('public/img/' . $site . '/template/footer_selector.gif'); ?>" class="img-thumbnail img-circle" style="width: 50px; height: 50px; ">
       </button>
     </footer>
 
@@ -198,11 +209,11 @@
 
     function sonido() {
       if (myAudio.paused) {
-        icono.setAttribute("src", "<?php echo base_url('public/img/'.$site.'/template/footer_no_volume.PNG'); ?>");
+        icono.setAttribute("src", "<?php echo base_url('public/img/' . $site . '/template/footer_no_volume.PNG'); ?>");
         myAudio.play();
         myAudio.loop = true;
       } else {
-        icono.setAttribute("src", "<?php echo base_url('public/img/'.$site.'/template/volume.PNG'); ?>");
+        icono.setAttribute("src", "<?php echo base_url('public/img/' . $site . '/template/volume.PNG'); ?>");
         myAudio.pause();
       }
     }
