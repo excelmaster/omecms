@@ -2,7 +2,7 @@
 $activos = 0;
 $inactivos = 0;
 
-$this->extend('templates/template', $site);
+$this->extend('templates/template_new', $site);
 $this->section('content');
 ?>
 
@@ -37,13 +37,12 @@ $this->section('content');
                 <div class="col-sm-2">
                     <div class="card text-white bg-yellow">
                         <h5 class="text-center"> <?php echo strtoupper($d['termino']) ; ?></h5>                        
-                        <img src="<?php echo base_url('public/img/' . $site . '/dict/' . $letter . '/' . str_replace(' ','_', $d['termino']) . '.png') ; ?>" alt="" class="img-fluid" style="width: 100%;">                        
+                        <img src="<?php echo base_url('public/img/' . $site . '/dict/' . strtoupper( $letter) . '/' . str_replace(' ','_', $d['termino']) . '.png') ; ?>" alt="" class="img-fluid" style="width: 100%;">                        
                     </div>
                 </div>
             <?php
             }            
             ?>
-
         </div>
     </div>
     <!-- /.card-body -->
