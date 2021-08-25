@@ -77,8 +77,10 @@ body {
   .grid-container {
     /* background-color: yellow; */
     grid-template:
-      "header header  header" 80px 
-      "menu   content sidebar" auto / 200px auto 200px
+      "header header  header" 120px 
+      "menu menu menu" 80px
+      "content content content" auto
+      "sidebar sidebar sidebar" 80px / 200px auto 200px
   }
 }
 
@@ -98,12 +100,17 @@ body {
     /* border: 1px solid red; */
     gap: 15px;
     grid-template:
-      "mn_1" 100px
-      "mn_2" 100px
-      "mn_3" 100px
-      "mn_4" 100px
-      "mn_5" 100px / auto
+      "mn_1" 120px
+      "mn_2" 120px
+      "mn_3" 120px
+      "mn_4" 120px
+      "mn_5" 120px
   }
+  .mn_6 {
+    height: 70px;
+    width: 70px;
+  }
+
   .content {
     display: grid;
     grid-area: content;

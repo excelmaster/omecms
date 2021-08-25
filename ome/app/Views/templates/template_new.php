@@ -21,71 +21,51 @@
 <body class="grid-container" style="background-image: url(<?php echo base_url('public/img/' . $site . '/template/bcg_template.jpg'); ?>);">
     <div class="header">
         <div class="container-fluid">
-            <a href="<?php echo base_url('courses/' . $site); ?>">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/texto_logo.png'); ?>" alt="AdminLTE Logo" class="animate__animated animate__lightSpeedInRight animate_delay_4s">
-            </a>
+            <div class="row float-left">
+                <a href="<?php echo base_url('courses/' . $site); ?>">
+                    <img src="<?php echo base_url('public/img/' . $site . '/template/texto_logo.png'); ?>" alt="AdminLTE Logo" class="animate__animated animate__lightSpeedInRight animate_delay_4s">
+                </a>
+            </div>
         </div>
 
     </div>
     <div class="menu">
         <div class="mn_1">
-            <a href="https://www.colorear-online.com/" target="blank_" class="nav-link">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_pincel.gif'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green">
-                    <h6>PAINT ACTIVITY</h6>
-                </span>
+            <a href="https://www.colorear-online.com/" target="blank_">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_1.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
             </a>
         </div>
         <div class="mn_2">
-            <a href="<?php echo base_url('dict/' . $site);  ?>" class="nav-link">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_dictionary.jpg'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green">
-                    <h6>DICTIONARY</h6>
-                </span>
+            <a href="https://www.colorear-online.com/" target="blank_">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_2.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
             </a>
         </div>
         <div class="mn_3">
-            <?php
-            if ($site == 'kids') {
-                echo '<a href="https://www.youtube.com/watch?v=TN0u_-msioQ" class="nav-link" target="blank_">';
-            } else {
-                echo '<a href="https://www.youtube.com/watch?v=9AYl10qxc0M" class="nav-link" target="blank_">';
-            }
-            ?>
-            <img src="<?php echo base_url('public/img/' . $site . '/template/sidebar_music.gif'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px; ">
-            <span class="badge badge-info bg-green">
-                <h6>MUSIC</h6>
-            </span>
+            <a href="https://www.colorear-online.com/" target="blank_">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_3.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
             </a>
         </div>
         <div class="mn_4">
-            <a href="https://api.whatsapp.com/send/?phone=3228315698&text=Necesito+soporte+de+la+plataforma&app_absent=0" class="nav-link" target="_blank">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/whatsapp_logo.png'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green">
-                    <h6>SUPPORT</h6>
-                </span>
+            <a href="https://www.colorear-online.com/" target="blank_">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_4.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
             </a>
         </div>
         <div class="mn_5">
-            <a href="<?php echo base_url('faq/' . $site); ?>" class="nav-link">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/faq.png'); ?>" class="img-thumbnail img-fluid img-circle animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px; ">
-                <span class="badge badge-info bg-green">
-                    <h6>PREGUNTAS?</h6>
-                </span>
+            <a href="https://www.colorear-online.com/" target="blank_">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_5.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
             </a>
-        </div>
-        <div class="mn_6">
-            <a class="button" onclick="sonido()" style="width: 100px;" class="nav-link">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/footer_no_volume.PNG'); ?>" id="volume" class="img-thumbnail img-fluid animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px;  ">
-            </a>
-            <audio id="myAudio" autoplay preload="auto" allow="autoplay">
-                <source src="<?php echo base_url('public/sound/' . $site . '/sound_body_rdc.mp3'); ?>" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio><br>
         </div>
     </div>
     </div>
-    <div class="sidebar">lateral</div>
+    <div class="sidebar">
+        <a class="button" onclick="sonido()" style="width: 100px;">
+            <img src="<?php echo base_url('public/img/' . $site . '/template/footer_no_volume.PNG'); ?>" id="volume" class="animate__animated animate__bounceInUp animate_delay_4s" style="width: 70px; height: 70px;  ">
+        </a>
+        <audio id="myAudio" autoplay preload="auto" allow="autoplay">
+            <source src="<?php echo base_url('public/sound/' . $site . '/sound_body_rdc.mp3'); ?>" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio><br>
+    </div>
     <div class="content">
         <div class="framezone">
             <!-- Content Wrapper. Contains page content -->
