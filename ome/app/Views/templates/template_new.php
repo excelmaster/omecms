@@ -23,7 +23,7 @@
         <div class="container-fluid">
             <div class="row float-left">
                 <a href="<?php echo base_url('courses/' . $site); ?>">
-                    <img src="<?php echo base_url('public/img/' . $site . '/template/texto_logo.png'); ?>" alt="AdminLTE Logo" class="animate__animated animate__lightSpeedInRight animate_delay_4s">
+                    <img src="<?php echo base_url('public/img/' . $site . '/template/texto_logo.png'); ?>" alt="AdminLTE Logo" class="logo-header">
                 </a>
             </div>
         </div>
@@ -32,27 +32,27 @@
     <div class="menu">
         <div class="mn_1">
             <a href="https://www.colorear-online.com/" target="blank_">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_1.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_1.png'); ?>">
             </a>
         </div>
         <div class="mn_2">
             <a href="https://www.colorear-online.com/" target="blank_">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_2.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_2.png'); ?>">
             </a>
         </div>
         <div class="mn_3">
             <a href="https://www.colorear-online.com/" target="blank_">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_3.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_3.png'); ?>">
             </a>
         </div>
         <div class="mn_4">
             <a href="https://www.colorear-online.com/" target="blank_">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_4.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_4.png'); ?>">
             </a>
         </div>
         <div class="mn_5">
             <a href="https://www.colorear-online.com/" target="blank_">
-                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_5.png'); ?>" class="animate__animated animate__duration_4s animate__rotateInDownLeft animate_delay_10s">
+                <img src="<?php echo base_url('public/img/' . $site . '/template/menu_5.png'); ?>">
             </a>
         </div>
     </div>
