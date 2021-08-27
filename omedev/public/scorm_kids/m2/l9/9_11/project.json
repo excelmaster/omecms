@@ -1,0 +1,52 @@
+{
+  "title": "las frutas1",
+  "date": "26/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_frutas1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 727858,
+  "files": [
+    "20046-resized.jpg",
+    "coconut.mp3",
+    "favicon.ico",
+    "frutas___10_-resized.jpg",
+    "frutas___11_-resized.jpg",
+    "frutas___12_-resized.jpg",
+    "frutas___13_-resized.jpg",
+    "frutas___7_-resized.jpg",
+    "frutas___8_-resized.jpg",
+    "frutas___9_-resized.jpg",
+    "grapefruit.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__10_-resized.jpg",
+    "image__11_-resized.jpg",
+    "image__12_-resized.jpg",
+    "image__13_-resized.jpg",
+    "image__7_-resized.jpg",
+    "image__8_-resized.jpg",
+    "image__9_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_frutas1.jclic",
+    "las_frutas1.jclic.js",
+    "lemon.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "melon.mp3",
+    "orange.mp3",
+    "pineapple.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "watermelon.mp3"
+  ]
+}

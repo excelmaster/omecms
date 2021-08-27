@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="los_utiles" version="0.1.3">
+ <settings>
+  <title>los utiles</title>
+  <revision description="created" date="3/29/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="1" />
+  <item name="3" navButtons="none" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="1" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="4103239-resized.jpg" tiled="true" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xFE860D" border="true" />
+   </settings>
+   <cells rows="1" cols="7" cellWidth="132.0" cellHeight="175.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="7" rows="1" />
+    <cell image="utiles (2)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (3)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (4)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (5)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (6)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (7)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+    <cell image="utiles (8)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="1" cols="7" cellWidth="132.0" cellHeight="177.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="7" rows="1" />
+    <cell image="image (54)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="book.mp3" />
+    </cell>
+    <cell image="image (25)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="color.mp3" />
+    </cell>
+    <cell image="image (48)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="pencil case.mp3" />
+    </cell>
+    <cell image="image (55)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="school bag.mp3" />
+    </cell>
+    <cell image="image (56)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="ruler.mp3" />
+    </cell>
+    <cell image="image (57)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="pencil.mp3" />
+    </cell>
+    <cell image="image (59)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xFF0000" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="scissors.mp3" />
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@panels.InformationScreen" name="3" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="false">
+    <container bgColor="0x0000FF">
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xC0C0C0" transparent="true" border="true" />
+   </settings>
+   <cells rows="1" cols="1" border="false" image="letrero de informacion-resized.jpg">
+    <style transparent="true">
+     <color background="0x0000FF" />
+    </style>
+    <shaper class="@Rectangular" cols="1" rows="1" />
+   </cells>
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="4103239-resized.jpg" file="4103239-resized.jpg" />
+  <media name="image (25)-resized.jpg" file="image__25_-resized.jpg" />
+  <media name="image (48)-resized.jpg" file="image__48_-resized.jpg" />
+  <media name="image (54)-resized.jpg" file="image__54_-resized.jpg" />
+  <media name="image (55)-resized.jpg" file="image__55_-resized.jpg" />
+  <media name="image (56)-resized.jpg" file="image__56_-resized.jpg" />
+  <media name="image (57)-resized.jpg" file="image__57_-resized.jpg" />
+  <media name="image (59)-resized.jpg" file="image__59_-resized.jpg" />
+  <media name="letrero de informacion-resized.jpg" file="letrero_de_informacion-resized.jpg" />
+  <media name="utiles (2)-resized.jpg" file="utiles__2_-resized.jpg" />
+  <media name="utiles (3)-resized.jpg" file="utiles__3_-resized.jpg" />
+  <media name="utiles (4)-resized.jpg" file="utiles__4_-resized.jpg" />
+  <media name="utiles (5)-resized.jpg" file="utiles__5_-resized.jpg" />
+  <media name="utiles (6)-resized.jpg" file="utiles__6_-resized.jpg" />
+  <media name="utiles (7)-resized.jpg" file="utiles__7_-resized.jpg" />
+  <media name="utiles (8)-resized.jpg" file="utiles__8_-resized.jpg" />
+  <media name="book.mp3" file="book.mp3" />
+  <media name="color.mp3" file="color.mp3" />
+  <media name="pencil case.mp3" file="pencil_case.mp3" />
+  <media name="pencil.mp3" file="pencil.mp3" />
+  <media name="ruler.mp3" file="ruler.mp3" />
+  <media name="school bag.mp3" file="school_bag.mp3" />
+  <media name="scissors.mp3" file="scissors.mp3" />
+ </mediaBag>
+</JClicProject>
+

@@ -1,0 +1,49 @@
+{
+  "title": "Lug.colegio_jclic",
+  "date": "10/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "lug.colegio_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 1312723,
+  "files": [
+    "29085-resized.jpg",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "classroom.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion30k-resized.jpg",
+    "leccion30k__1_-resized.jpg",
+    "leccion30k__2_-resized.jpg",
+    "leccion30k__3_-resized.jpg",
+    "leccion30k__4_-resized.jpg",
+    "leccion30k__5_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "lug.colegio_jclic.jclic",
+    "lug.colegio_jclic.jclic.js",
+    "music_room.mp3",
+    "principals_office.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "school.mp3",
+    "school_grounds.mp3",
+    "schoolyard-playground.mp3"
+  ]
+}

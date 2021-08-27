@@ -1,0 +1,56 @@
+{
+  "title": "atraccciones_jclic",
+  "date": "12/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "atraccciones_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 30,
+  "totalSize": 1768015,
+  "files": [
+    "24-resized.jpg",
+    "atraccciones_jclic.jclic",
+    "atraccciones_jclic.jclic.js",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "captura6.png",
+    "captura7.png",
+    "carousel.mp3",
+    "castle_of_terror.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "kartz.mp3",
+    "leccion35k-resized.jpg",
+    "leccion35k__1_-resized.jpg",
+    "leccion35k__2_-resized.jpg",
+    "leccion35k__3_-resized.jpg",
+    "leccion35k__4_-resized.jpg",
+    "leccion35k__5_-resized.jpg",
+    "leccion35k__6_-resized.jpg",
+    "leccion35k__7_-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "roller_coaster_.mp3",
+    "rotating_tea_cups.mp3",
+    "supershot.mp3",
+    "swing_ride.mp3",
+    "wheel_of_fortune.mp3"
+  ]
+}

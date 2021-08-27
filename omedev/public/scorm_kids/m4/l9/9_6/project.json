@@ -1,0 +1,51 @@
+{
+  "title": "mood",
+  "date": "4/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "mood.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 979316,
+  "files": [
+    "angry.mp3",
+    "bad.mp3",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "favicon.ico",
+    "good.mp3",
+    "happy.mp3",
+    "hill-990362_960_720-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image1.png",
+    "image2.png",
+    "image3.png",
+    "image4.png",
+    "image5.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "mood.jclic",
+    "mood.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "relaxed.mp3",
+    "sad.mp3"
+  ]
+}

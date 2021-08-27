@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="actividad_pronombre_2" version="0.1.3">
+ <settings>
+  <title>actividad pronombre 2</title>
+  <revision description="created" date="3/2/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="2" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="2" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="images (1).jpg" tiled="true" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xFFFF66" border="true" />
+   </settings>
+   <cells rows="1" cols="4" cellWidth="150.0" cellHeight="180.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="4" rows="1" />
+    <cell txtAlign="middle,top" image="360_F_69413622_jtsJMIOoUhJS8U27XjGNS5c7BwyjWFK5.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <font family="Arial" size="17" bold="true" />
+      <color background="0xCCCCFF" />
+     </style>
+     <p>NEUTRO</p>
+    </cell>
+    <cell txtAlign="middle,top" image="musica-de-fondo-sin-copyright-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <font family="Arial" size="17" bold="true" />
+      <color background="0xCCCCFF" />
+     </style>
+     <p>NOSOTROS(as)</p>
+    </cell>
+    <cell txtAlign="middle,top" image="social-media-team-discussing-on-graph-at-workplace (1)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <font family="Arial" size="17" bold="true" />
+      <color background="0xCCCCFF" />
+     </style>
+     <p>USTEDES</p>
+    </cell>
+    <cell txtAlign="middle,top" image="imagenes they.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <font family="Arial" size="17" bold="true" />
+      <color background="0xCCCCFF" />
+     </style>
+     <p>ELLOS/ELLAS</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="4" cellWidth="150.0" cellHeight="133.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="4" rows="1" />
+    <cell image="PRONOMBRE (4)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xCCCCFF" />
+     </style>
+    </cell>
+    <cell image="PRONOMBRE (5)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xCCCCFF" />
+     </style>
+    </cell>
+    <cell image="PRONOMBRE (1)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xCCCCFF" />
+     </style>
+    </cell>
+    <cell image="PRONOMBRE (8)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0xCCCCFF" />
+     </style>
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="360_F_69413622_jtsJMIOoUhJS8U27XjGNS5c7BwyjWFK5.jpg" file="360_f_69413622_jtsjmioouhjs8u27xjgns5c7bwyjwfk5.jpg" />
+  <media name="imagenes they.jpg" file="imagenes_they.jpg" />
+  <media name="images (1).jpg" file="images__1_.jpg" />
+  <media name="musica-de-fondo-sin-copyright-resized.jpg" file="musica-de-fondo-sin-copyright-resized.jpg" />
+  <media name="PRONOMBRE (1)-resized.jpg" file="pronombre__1_-resized.jpg" />
+  <media name="PRONOMBRE (4)-resized.jpg" file="pronombre__4_-resized.jpg" />
+  <media name="PRONOMBRE (5)-resized.jpg" file="pronombre__5_-resized.jpg" />
+  <media name="PRONOMBRE (8)-resized.jpg" file="pronombre__8_-resized.jpg" />
+  <media name="social-media-team-discussing-on-graph-at-workplace (1)-resized.jpg" file="social-media-team-discussing-on-graph-at-workplace__1_-resized.jpg" />
+ </mediaBag>
+</JClicProject>
+

@@ -1,0 +1,48 @@
+{
+  "title": "herramientas",
+  "date": "8/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "herramientas.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 431187,
+  "files": [
+    "11-01-5-resized.jpg",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "drill.mp3",
+    "favicon.ico",
+    "handsaw.mp3",
+    "herramientas.jclic",
+    "herramientas.jclic.js",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image__1_.png",
+    "image__2_.png",
+    "image__3_.png",
+    "image__4_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "jammer.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "nail.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "screw_driver.mp3"
+  ]
+}

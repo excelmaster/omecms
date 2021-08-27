@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="parque1_jclic" version="0.1.3">
+ <settings>
+  <title>parque1_jclic</title>
+  <revision description="created" date="5/11/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="1" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="1" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+    <cell type="final">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <p>¡Buen Trabajo!</p>
+    </cell>
+    <cell type="finalError">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+   </messages>
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="11-01-5-resized.jpg" tiled="true" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xFFFF00" border="true" />
+   </settings>
+   <cells rows="1" cols="5" cellWidth="150.0" cellHeight="167.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="5" rows="1" />
+    <cell image="lección34k (5)-resized.jpg">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+    <cell image="lección34k (6)-resized.jpg">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+    <cell image="lección34k (7)-resized.jpg">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+    <cell image="lección34k (8)-resized.jpg">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+    <cell image="lección34k (9)-resized.jpg">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="1" cols="5" cellWidth="150.0" cellHeight="167.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="5" rows="1" />
+    <cell image="6.PNG">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="seesaw.mp3" />
+    </cell>
+    <cell image="7.PNG">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="swing.mp3" />
+    </cell>
+    <cell image="8.PNG">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="wall climb.mp3" />
+    </cell>
+    <cell image="9.PNG">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="field.mp3" />
+    </cell>
+    <cell image="10.PNG">
+     <style>
+      <color background="0xFFFF00" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="slope.mp3" />
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="11-01-5-resized.jpg" file="11-01-5-resized.jpg" />
+  <media name="lección34k (5)-resized.jpg" file="leccion34k__5_-resized.jpg" />
+  <media name="lección34k (6)-resized.jpg" file="leccion34k__6_-resized.jpg" />
+  <media name="lección34k (7)-resized.jpg" file="leccion34k__7_-resized.jpg" />
+  <media name="lección34k (8)-resized.jpg" file="leccion34k__8_-resized.jpg" />
+  <media name="lección34k (9)-resized.jpg" file="leccion34k__9_-resized.jpg" />
+  <media name="field.mp3" file="field.mp3" />
+  <media name="seesaw.mp3" file="seesaw.mp3" />
+  <media name="slope.mp3" file="slope.mp3" />
+  <media name="swing.mp3" file="swing.mp3" />
+  <media name="wall climb.mp3" file="wall_climb.mp3" />
+  <media name="10.PNG" file="10.png" />
+  <media name="6.PNG" file="6.png" />
+  <media name="7.PNG" file="7.png" />
+  <media name="8.PNG" file="8.png" />
+  <media name="9.PNG" file="9.png" />
+ </mediaBag>
+</JClicProject>
+

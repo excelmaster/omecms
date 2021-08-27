@@ -1,0 +1,51 @@
+{
+  "title": "mood_1",
+  "date": "4/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "mood_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 954515,
+  "files": [
+    "bored.mp3",
+    "busy.mp3",
+    "captura10.png",
+    "captura11.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "carefree.mp3",
+    "favicon.ico",
+    "hill-990362_960_720-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image10.png",
+    "image11.png",
+    "image6.png",
+    "image7.png",
+    "image8.png",
+    "image9.png",
+    "imsmanifest.xml",
+    "in_love.mp3",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "mood_1.jclic",
+    "mood_1.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "scared.mp3",
+    "sleepy.mp3"
+  ]
+}

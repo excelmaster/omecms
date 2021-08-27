@@ -1,0 +1,52 @@
+{
+  "title": "deportes_jclic",
+  "date": "12/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "deportes_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 1069124,
+  "files": [
+    "606-resized.jpg",
+    "akating.mp3",
+    "baseball.mp3",
+    "basketball.mp3",
+    "biking.mp3",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "captura6.png",
+    "deportes_jclic.jclic",
+    "deportes_jclic.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion36_k_3_-resized.jpg",
+    "leccion36k-resized.jpg",
+    "leccion36k__1_-resized.jpg",
+    "leccion36k__2_-resized.jpg",
+    "leccion36k__4_-resized.jpg",
+    "leccion36k__5_-resized.jpg",
+    "leccion36k__6_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "soccer.mp3",
+    "tennis.mp3",
+    "vollwyball.mp3"
+  ]
+}

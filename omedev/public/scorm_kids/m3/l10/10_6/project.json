@@ -1,0 +1,48 @@
+{
+  "title": "parque_jclic",
+  "date": "11/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "parque_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 827204,
+  "files": [
+    "1.png",
+    "11-01-5-resized.jpg",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion34k-resized.jpg",
+    "leccion34k__1_-resized.jpg",
+    "leccion34k__2_-resized.jpg",
+    "leccion34k__3_-resized.jpg",
+    "leccion34k__4_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "park.mp3",
+    "parque_jclic.jclic",
+    "parque_jclic.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "railing.mp3",
+    "sandbox.mp3",
+    "wheel.mp3",
+    "wooden_bridge.mp3"
+  ]
+}

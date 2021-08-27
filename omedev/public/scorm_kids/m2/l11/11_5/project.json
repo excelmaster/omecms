@@ -1,0 +1,49 @@
+{
+  "title": "los utiles1",
+  "date": "29/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_utiles1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 634424,
+  "files": [
+    "4103239-resized.jpg",
+    "board.mp3",
+    "crayon.mp3",
+    "desk.mp3",
+    "eraser.mp3",
+    "favicon.ico",
+    "glue_stick.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__58_-resized1.jpg",
+    "image__60_-resized1.jpg",
+    "image__61_-resized1.jpg",
+    "image__62_-resized1.jpg",
+    "image__63_-resized1.jpg",
+    "image__64_-resized1.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "los_utiles1.jclic",
+    "los_utiles1.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sharpenes.mp3",
+    "utiles__10_-resized1.jpg",
+    "utiles__11_-resized1.jpg",
+    "utiles__12_-resized1.jpg",
+    "utiles__13_-resized1.jpg",
+    "utiles__14_-resized1.jpg",
+    "utiles__9_-resized1.jpg"
+  ]
+}

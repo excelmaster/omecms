@@ -1,0 +1,51 @@
+{
+  "title": "paises_jclic",
+  "date": "1/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "paises_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 757490,
+  "files": [
+    "11-01-5-resized.jpg",
+    "argentina.mp3",
+    "brazil.mp3",
+    "favicon.ico",
+    "ficha-resized.jpg",
+    "ficha__1_-resized.jpg",
+    "ficha__2_-resized.jpg",
+    "ficha__3_-resized.jpg",
+    "ficha__4_-resized.jpg",
+    "ficha__5_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image_-resized.jpg",
+    "image__1_-resized.jpg",
+    "image__2_-resized.jpg",
+    "image__3_-resized.jpg",
+    "image__4_-resized.jpg",
+    "image__5_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "kenya.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "mexico.mp3",
+    "nigeria.mp3",
+    "paises_jclic.jclic",
+    "paises_jclic.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "united_states.mp3"
+  ]
+}

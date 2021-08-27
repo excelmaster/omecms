@@ -1,0 +1,52 @@
+{
+  "title": "la naturaleza",
+  "date": "31/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "la_naturaleza.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 820833,
+  "files": [
+    "beach.mp3",
+    "dissert.mp3",
+    "favicon.ico",
+    "flower.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__70_-resized1.jpg",
+    "image__71_-resized1.jpg",
+    "image__72_-resized1.jpg",
+    "image__73_-resized1.jpg",
+    "image__74_-resized1.jpg",
+    "image__75_-resized1.jpg",
+    "image__94_-resized1.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "la_naturaleza.jclic",
+    "la_naturaleza.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "lown.mp3",
+    "mountain.mp3",
+    "natural-resized1.jpg",
+    "natural__1_-resized1.jpg",
+    "natural__2_-resized1.jpg",
+    "natural__3_-resized1.jpg",
+    "natural__4_-resized1.jpg",
+    "natural__5_-resized1.jpg",
+    "natural__6_-resized1.jpg",
+    "paisaje-parque-natural-fondo-vacio_1308-44780.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "river.mp3",
+    "tree.mp3"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "prepossiciones1_jclic",
+  "date": "11/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "prepossiciones1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 1043765,
+  "files": [
+    "behind.mp3",
+    "between.mp3",
+    "block.mp3",
+    "captura.png",
+    "capturac.png",
+    "capturad.png",
+    "capturak.png",
+    "captural.png",
+    "capturam.png",
+    "capturan.png",
+    "cielo-resized.jpg",
+    "cross.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion31k__1_-resized.jpg",
+    "leccion31k__2_-resized.jpg",
+    "leccion31k__3_-resized.jpg",
+    "leccion31k__4_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "near-close.mp3",
+    "prepossiciones1_jclic.jclic",
+    "prepossiciones1_jclic.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "straight.mp3",
+    "turn.mp3",
+    "ubicacion14-resized.jpg",
+    "ubicacion__10_-resized.jpg",
+    "ubicacion__7_-resized.jpg"
+  ]
+}

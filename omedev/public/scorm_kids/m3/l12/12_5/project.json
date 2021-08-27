@@ -1,0 +1,51 @@
+{
+  "title": "deportes1_jclic",
+  "date": "12/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "deportes1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 913895,
+  "files": [
+    "606-resized.jpg",
+    "boxing.mp3",
+    "captura10.png",
+    "captura11.png",
+    "captura12.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "deportes1_jclic.jclic",
+    "deportes1_jclic.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion36k__10_-resized.jpg",
+    "leccion36k__11_-resized.jpg",
+    "leccion36k__12_-resized.jpg",
+    "leccion36k__7_-resized.jpg",
+    "leccion36k__8_-resized.jpg",
+    "leccion36k__9_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "lifting_weights_.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "skiing.mp3",
+    "surfing.mp3",
+    "swiming_.mp3",
+    "track_and_field_.mp3"
+  ]
+}

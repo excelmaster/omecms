@@ -1,0 +1,51 @@
+{
+  "title": "comidas del dia _k",
+  "date": "2/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "comidas_del_dia__k.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 688872,
+  "files": [
+    "29085-resized.jpg",
+    "afternoon_snack.mp3",
+    "breakfast.mp3",
+    "coffee_break.mp3",
+    "comida_s-resized.jpg",
+    "comida_s_1_-resized.jpg",
+    "comida_s_2_-resized.jpg",
+    "comida_s_3_-resized.jpg",
+    "comida_s_4_-resized.jpg",
+    "comida_s_5_-resized.jpg",
+    "comidas_-resized.jpg",
+    "comidas___1_-resized.jpg",
+    "comidas___3_-resized.jpg",
+    "comidas___4_-resized.jpg",
+    "comidas___5_-resized.jpg",
+    "comidas___6_-resized.jpg",
+    "comidas_del_dia__k.jclic",
+    "comidas_del_dia__k.jclic.js",
+    "dinner.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "lunch.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "snack.mp3"
+  ]
+}

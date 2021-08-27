@@ -1,0 +1,49 @@
+{
+  "title": "los vegetales2",
+  "date": "26/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_vegetales2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 623813,
+  "files": [
+    "celery.mp3",
+    "corn.mp3",
+    "couliflower.mp3",
+    "favicon.ico",
+    "fonde_de_vegetales-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image__14_-resized.jpg",
+    "image__15_-resized.jpg",
+    "image__16_-resized.jpg",
+    "image__17_-resized.jpg",
+    "image__45_-resized.jpg",
+    "image__46_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "los_vegetales2.jclic",
+    "los_vegetales2.jclic.js",
+    "platain.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "radish.mp3",
+    "sweet_potatoes.mp3",
+    "vegetal__14_-resized.jpg",
+    "vegetal__15_-resized.jpg",
+    "vegetal__16_-resized.jpg",
+    "vegetal__17_-resized.jpg",
+    "vegetal__18_-resized.jpg",
+    "vegetal__19_-resized.jpg"
+  ]
+}

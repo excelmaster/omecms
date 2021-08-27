@@ -1,0 +1,52 @@
+{
+  "title": "adjetivos_jclic",
+  "date": "4/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "adjetivos_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 661564,
+  "files": [
+    "24-resized.jpg",
+    "adjetivos_jclic.jclic",
+    "adjetivos_jclic.jclic.js",
+    "beautiful.mp3",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "captura6.png",
+    "fat.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image__1_.png",
+    "image__2_.png",
+    "image__3_.png",
+    "image__4_.png",
+    "image__5_.png",
+    "image__6_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "playful.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "short.mp3",
+    "skinny.mp3",
+    "tall.mp3",
+    "ugly.mp3"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "las profesiones_ audi",
+  "date": "15/04/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_profesiones__audi.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 3,
+  "mediaFiles": 34,
+  "totalSize": 1404564,
+  "files": [
+    "11.1doctor.mp3",
+    "11.2dancers.mp3",
+    "11.3captain.mp3",
+    "11.4engineer.mp3",
+    "11.5teacher.mp3",
+    "11.6musician.mp3",
+    "11.7singer.mp3",
+    "11.8nurse.mp3",
+    "11.9flight_atendant.mp3",
+    "3077-resized.jpg",
+    "corre1.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image__1_.png",
+    "image__2_.png",
+    "image__3_.png",
+    "image__5_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "las_profesiones__audi.jclic",
+    "las_profesiones__audi.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "profe1.png",
+    "profe2.png",
+    "profe3.png",
+    "profe4.png",
+    "profe5.png",
+    "profe6.png",
+    "profe7.jpg",
+    "profe8.png",
+    "profe9.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

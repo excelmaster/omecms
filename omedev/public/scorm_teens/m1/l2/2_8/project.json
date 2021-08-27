@@ -1,0 +1,31 @@
+{
+  "title": "rompecabezas numeros",
+  "date": "22/01/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "mainFile": "rompecabezas_numeros.jclic",
+  "activities": 1,
+  "mediaFiles": 7,
+  "totalSize": 130219,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "ordi.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rompecabezas_numeros.jclic",
+    "rompecabezas_numeros.jclic.js",
+    "unnamed.jpg"
+  ]
+}

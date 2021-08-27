@@ -1,0 +1,52 @@
+{
+  "title": "los utiles",
+  "date": "29/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_utiles.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 866027,
+  "files": [
+    "4103239-resized.jpg",
+    "book.mp3",
+    "color.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__25_-resized.jpg",
+    "image__48_-resized.jpg",
+    "image__54_-resized.jpg",
+    "image__55_-resized.jpg",
+    "image__56_-resized.jpg",
+    "image__57_-resized.jpg",
+    "image__59_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "los_utiles.jclic",
+    "los_utiles.jclic.js",
+    "pencil.mp3",
+    "pencil_case.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "ruler.mp3",
+    "school_bag.mp3",
+    "scissors.mp3",
+    "utiles__2_-resized.jpg",
+    "utiles__3_-resized.jpg",
+    "utiles__4_-resized.jpg",
+    "utiles__5_-resized.jpg",
+    "utiles__6_-resized.jpg",
+    "utiles__7_-resized.jpg",
+    "utiles__8_-resized.jpg"
+  ]
+}

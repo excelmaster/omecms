@@ -1,0 +1,49 @@
+{
+  "title": "comodaRapidaK_2",
+  "date": "2/06/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "comodarapidak_2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 691224,
+  "files": [
+    "606-resized.jpg",
+    "bread.mp3",
+    "captura.19.png",
+    "captura14.png",
+    "captura15.png",
+    "captura16.png",
+    "captura17.png",
+    "captura18.png",
+    "comodarapidak_2.jclic",
+    "comodarapidak_2.jclic.js",
+    "donut.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__14_.png",
+    "image__15_.png",
+    "image__16_.png",
+    "image__17_.png",
+    "image__18_.png",
+    "image__19_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "ketchup.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "mayonaisse.mp3",
+    "mustard.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sandwich.mp3"
+  ]
+}

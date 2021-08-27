@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="numbersM1" version="0.1.3">
+ <settings>
+  <title>numbers2</title>
+  <revision description="created" date="1/19/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="Números_1" navButtons="fwd" />
+  <item name="Números _2" />
+  <item name="Números _3" />
+  <item name="4" navButtons="none" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="Números _2" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="7f20fea9af8edfd3e86fee1f099307cf-resized.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xFFCCCC" border="true" />
+   </settings>
+   <cells rows="2" cols="6" cellWidth="142.0" cellHeight="110.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="descarga (4).jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>UNDÉCIMO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DUODÉCIMO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOTERCERO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOCUARTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOQUINTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOSEXTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOSÉPTIMO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMOCTAVO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMONOVENO</p>
+    </cell>
+    <cell txtAlign="left,top" image="descarga (2).png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO</p>
+    </cell>
+    <cell image="cancha.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="2" cols="6" cellWidth="141.0" cellHeight="110.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="descarga (4).jpg">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>ELEVENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWELFTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>THIRTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>FOURTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>FIFTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SIXTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SEVENTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>EIGHTEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>NINETEENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTIETH</p>
+    </cell>
+    <cell image="cancha.jpg">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@associations.SimpleAssociation" name="Números _3" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="7f20fea9af8edfd3e86fee1f099307cf-resized.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xFFCCCC" border="true" />
+   </settings>
+   <cells rows="2" cols="6" cellWidth="177.0" cellHeight="125.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="DECORACION.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-PRIMERO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-SEGUNDO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-TERCERO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-CUARTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-QUINTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-SEXTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-SÉPTIMO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-OCTAVO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>VIGÉSIMO-NOVENO</p>
+    </cell>
+    <cell txtAlign="left,top" image="CARRO1.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TRIGÉSIMO</p>
+    </cell>
+    <cell image="BANDERA.png">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="2" cols="6" cellWidth="175.0" cellHeight="113.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="DECORACION.jpg">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-FIRST</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-SECOND</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-THIRD</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-FOURTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-FIFTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-SIXTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-SEVENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-EIGHTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TWENTY-NINTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="16" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>THIRTIETH</p>
+    </cell>
+    <cell image="BANDERA.png">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@associations.SimpleAssociation" name="Números_1" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="7f20fea9af8edfd3e86fee1f099307cf-resized.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xFFCCCC" border="true" />
+   </settings>
+   <cells rows="2" cols="6" cellWidth="114.0" cellHeight="100.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="TREN.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>PRIMERO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SEGUNDO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TERCERO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>CUARTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>QUINTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SEXTO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style margin="5" borderStroke="0.0" markerStroke="5.0">
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SÉPTIMO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>OCTAVO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>NOVENO</p>
+    </cell>
+    <cell txtAlign="left,top" image="BAGON.PNG">
+     <style margin="5" borderStroke="0.7" markerStroke="0.0">
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>DÉCIMO </p>
+    </cell>
+    <cell image="descarga.jpg">
+     <style>
+      <font family="Arial" size="14" bold="true" />
+      <color foreground="0xFF3333" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="2" cols="6" cellWidth="114.0" cellHeight="100.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="2" />
+    <cell image="TREN.PNG">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>FIRST</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SECOND</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>THIRD</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>FOURTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>FIFTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SIXTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>SEVENTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>EIGHTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>NINTH</p>
+    </cell>
+    <cell>
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+     <p>TENTH</p>
+    </cell>
+    <cell image="descarga.jpg">
+     <style>
+      <font family="Arial" size="18" bold="true" />
+      <gradient source="0xCCCCFF" dest="0xFFFFFF" angle="29" />
+     </style>
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@panels.InformationScreen" name="4" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="false">
+    <container bgColor="0x3300FF">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xFF0000" border="true" />
+   </settings>
+   <cells rows="1" cols="1" border="true" image="letrero de informacion 2-resized.jpg">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+   </cells>
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="7f20fea9af8edfd3e86fee1f099307cf-resized.jpg" file="7f20fea9af8edfd3e86fee1f099307cf-resized.jpg" />
+  <media name="cancha.jpg" file="cancha.jpg" />
+  <media name="CARRO1.jpg" file="carro1.jpg" />
+  <media name="DECORACION.jpg" file="decoracion.jpg" />
+  <media name="descarga (4).jpg" file="descarga__4_.jpg" />
+  <media name="descarga.jpg" file="descarga.jpg" />
+  <media name="letrero de informacion 2-resized.jpg" file="letrero_de_informacion_2-resized.jpg" />
+  <media name="BAGON.PNG" file="bagon.png" />
+  <media name="BANDERA.png" file="bandera.png" />
+  <media name="descarga (2).png" file="descarga__2_.png" />
+  <media name="TREN.PNG" file="tren.png" />
+ </mediaBag>
+</JClicProject>
+

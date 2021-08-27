@@ -1,0 +1,52 @@
+{
+  "title": "los vegetales",
+  "date": "26/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_vegetales.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 662824,
+  "files": [
+    "cucumber.mp3",
+    "favicon.ico",
+    "fonde_de_vegetales-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image-resized.jpg",
+    "image__1_-resized.jpg",
+    "image__2_-resized.jpg",
+    "image__3_-resized.jpg",
+    "image__4_-resized.jpg",
+    "image__5_-resized.jpg",
+    "image__6_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "los_vegetales.jclic",
+    "los_vegetales.jclic.js",
+    "onion.mp3",
+    "potatoes.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "pumpkin.mp3",
+    "spinach.mp3",
+    "tomstoes.mp3",
+    "vegetal-resized.jpg",
+    "vegetal__1_-resized.jpg",
+    "vegetal__2_-resized.jpg",
+    "vegetal__3_-resized.jpg",
+    "vegetal__4_-resized.jpg",
+    "vegetal__5_-resized.jpg",
+    "vegetal__6_-resized.jpg",
+    "zuchini.mp3"
+  ]
+}

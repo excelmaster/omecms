@@ -1,0 +1,52 @@
+{
+  "title": "Las acciones_jclic",
+  "date": "5/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_acciones_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 818061,
+  "files": [
+    "2458720-resized.jpg",
+    "bite.mp3",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "captura5.png",
+    "captura6.png",
+    "favicon.ico",
+    "go.mp3",
+    "help.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image__13_.png",
+    "image__1_.png",
+    "image__2_.png",
+    "image__3_.png",
+    "image__4_-resized.jpg",
+    "image__5_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_acciones_jclic.jclic",
+    "las_acciones_jclic.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "play.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "push.mp3",
+    "put.mp3",
+    "run.mp3"
+  ]
+}

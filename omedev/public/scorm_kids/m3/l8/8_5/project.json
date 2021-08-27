@@ -1,0 +1,50 @@
+{
+  "title": "espacio1_jclic",
+  "date": "11/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "espacio1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 24,
+  "totalSize": 1100925,
+  "files": [
+    "captura10.png",
+    "captura12.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "espacio1_jclic.jclic",
+    "espacio1_jclic.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "jupiter.mp3",
+    "leccion32k__10_-resized.jpg",
+    "leccion32k__11_-resized.jpg",
+    "leccion32k__6_-resized.jpg",
+    "leccion32k__7_-resized.jpg",
+    "leccion32k__8_-resized.jpg",
+    "leccion32k__9_-resized.jpg",
+    "mars.mp3",
+    "mercury.mp3",
+    "parque-infantil-blanco-toboganes-escena_1308-53112.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "star.mp3",
+    "sun.mp3",
+    "venus.mp3"
+  ]
+}

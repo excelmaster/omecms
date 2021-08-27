@@ -1,0 +1,6 @@
+CRITICAL - 2021-06-15 09:37:06 --> Too few arguments to function App\Controllers\Courses::index(), 0 passed in /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php on line 931 and exactly 1 expected
+#0 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Courses->index()
+#1 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/ome/omecms/ome/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}

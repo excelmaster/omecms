@@ -1,0 +1,49 @@
+{
+  "title": "las figuras geometricas2",
+  "date": "23/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_figuras_geometricas2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 592963,
+  "files": [
+    "22.10esfera.mp3",
+    "22.11cono.mp3",
+    "22.6rectangulo.mp3",
+    "22.7piramide.mp3",
+    "22.8cilindro.mp3",
+    "22.9cubo.mp3",
+    "5025160-resized.jpg",
+    "favicon.ico",
+    "figura__4_-resized.jpg",
+    "figura__5_-resized.jpg",
+    "figura__6_-resized.jpg",
+    "figura__7_-resized.jpg",
+    "figura__8_-resized.jpg",
+    "figura__9_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image__4_-resized.jpg",
+    "image__5_-resized.jpg",
+    "image__6_-resized.jpg",
+    "image__7_-resized.jpg",
+    "image__8_-resized.jpg",
+    "image__9_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_figuras_geometricas2.jclic",
+    "las_figuras_geometricas2.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

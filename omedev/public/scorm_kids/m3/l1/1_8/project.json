@@ -1,0 +1,46 @@
+{
+  "title": "emociones2_jclic",
+  "date": "3/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "emociones2_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 686920,
+  "files": [
+    "466095-pg0wut-360-resized.jpg",
+    "anxious.mp3",
+    "bored.mp3",
+    "captura11.png",
+    "captura12.png",
+    "captura13.png",
+    "captura14.png",
+    "captura15.png",
+    "emociones2_jclic.jclic",
+    "emociones2_jclic.jclic.js",
+    "favicon.ico",
+    "guilty.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion33__10_-resized.jpg",
+    "leccion33__11_-resized.jpg",
+    "leccion33__12_-resized.jpg",
+    "leccion33__13_-resized.jpg",
+    "leccion33__14_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sad.mp3",
+    "sore.mp3"
+  ]
+}

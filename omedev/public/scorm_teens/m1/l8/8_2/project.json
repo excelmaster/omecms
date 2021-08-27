@@ -1,0 +1,38 @@
+{
+  "title": "ACTIVIDAD_PRONOMBRES",
+  "date": "2/02/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "actividad_pronombres.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 14,
+  "totalSize": 296711,
+  "files": [
+    "actividad_pronombres.jclic",
+    "actividad_pronombres.jclic.js",
+    "defectos1.jpg",
+    "favicon.ico",
+    "fotografia-hombre-enfadado-senalando__2_.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "images__1_.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "man-pointing-to-himself-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "pronombre-resized.jpg",
+    "pronombre__2_-resized.jpg",
+    "pronombre__3_-resized.jpg",
+    "pronombre__7_-resized.jpg",
+    "woman-1274056_1920-resized.jpg"
+  ]
+}

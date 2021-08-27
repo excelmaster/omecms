@@ -1,0 +1,54 @@
+{
+  "title": "lug.cuidadk_2",
+  "date": "3/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "lug.cuidadk_2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 1364273,
+  "files": [
+    "60439-resized.jpg",
+    "apartmen_block.mp3",
+    "bridge.mp3",
+    "captura14.png",
+    "captura15.png",
+    "captura16.png",
+    "captura17.png",
+    "captura18.png",
+    "captura19.png",
+    "captura20.png",
+    "cinema.mp3",
+    "faire_station_.mp3",
+    "favicon.ico",
+    "gym.mp3",
+    "hotel.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__14_.png",
+    "image__15_.png",
+    "image__16_.png",
+    "image__17_.png",
+    "image__18_.png",
+    "image__19_.png",
+    "image__20_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "lug.cuidadk_2.jclic",
+    "lug.cuidadk_2.jclic.js",
+    "park.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "la naturaleza2",
+  "date": "31/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "la_naturaleza2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 687817,
+  "files": [
+    "air.mp3",
+    "favicon.ico",
+    "hill.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__87_-resized.jpg",
+    "image__89_-resized.jpg",
+    "image__90_-resized.jpg",
+    "image__91_-resized.jpg",
+    "image__92_-resized.jpg",
+    "image__93_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "la_naturaleza2.jclic",
+    "la_naturaleza2.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "natural__18_-resized.jpg",
+    "natural__20_-resized.jpg",
+    "natural__21_-resized.jpg",
+    "natural__22_-resized.jpg",
+    "natural__23_-resized.jpg",
+    "natural__24_-resized.jpg",
+    "paisaje-parque-natural-fondo-vacio_1308-44780.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rock.mp3",
+    "sky.mp3",
+    "way.mp3",
+    "worm.mp3"
+  ]
+}

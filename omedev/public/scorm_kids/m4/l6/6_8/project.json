@@ -1,0 +1,54 @@
+{
+  "title": "lug.cuidadk_1",
+  "date": "3/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "lug.cuidadk_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 1148611,
+  "files": [
+    "60439-resized.jpg",
+    "airport.mp3",
+    "bus_station.mp3",
+    "captura10.png",
+    "captura11.png",
+    "captura12.png",
+    "captura13.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "cementery.mp3",
+    "downtown.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__10_.png",
+    "image__11_.png",
+    "image__12_.png",
+    "image__13_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "lug.cuidadk_1.jclic",
+    "lug.cuidadk_1.jclic.js",
+    "parking.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "store.mp3",
+    "subway.mp3"
+  ]
+}

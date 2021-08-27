@@ -1,0 +1,51 @@
+{
+  "title": "espacio2_jclic",
+  "date": "11/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "espacio2_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 1125689,
+  "files": [
+    "captura13.png",
+    "captura14.png",
+    "captura15.png",
+    "captura16.png",
+    "captura17.png",
+    "captura18.png",
+    "earth.mp3",
+    "espacio2_jclic.jclic",
+    "espacio2_jclic.jclic.js",
+    "favicon.ico",
+    "flaying_saucer.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion32k__12_-resized.jpg",
+    "leccion32k__13_-resized.jpg",
+    "leccion32k__14_-resized.jpg",
+    "leccion32k__15_-resized.jpg",
+    "leccion32k__16_-resized.jpg",
+    "leccion32k__17_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "moon.mp3",
+    "neptune.mp3",
+    "parque-infantil-blanco-toboganes-escena_1308-53112.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "saturn.mp3",
+    "urani.mp3"
+  ]
+}

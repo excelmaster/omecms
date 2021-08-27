@@ -1,0 +1,49 @@
+{
+  "title": "las frutas2",
+  "date": "26/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_frutas2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 585396,
+  "files": [
+    "20046-resized.jpg",
+    "avocado.mp3",
+    "blueberry.mp3",
+    "favicon.ico",
+    "frutas___14_-resized.jpg",
+    "frutas___15_-resized.jpg",
+    "frutas___16_-resized.jpg",
+    "frutas___17_-resized.jpg",
+    "frutas___18_-resized.jpg",
+    "frutas___19_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image__14_-resized.jpg",
+    "image__15_-resized.jpg",
+    "image__16_-resized.jpg",
+    "image__17_-resized.jpg",
+    "image__18_-resized.jpg",
+    "image__19_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_frutas2.jclic",
+    "las_frutas2.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "papaya.mp3",
+    "passion_fruit.mp3",
+    "plum.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "raspberry.mp3"
+  ]
+}

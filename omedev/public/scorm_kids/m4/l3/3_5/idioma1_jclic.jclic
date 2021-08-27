@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="idioma1_jclic" version="0.1.3">
+ <settings>
+  <title>idioma1_jclic</title>
+  <revision description="created" date="6/1/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="1" />
+  <item name="3" navButtons="none" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="1" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style>
+      <color background="0x00FF00" />
+     </style>
+     <p>Une la bandera con el audio que corresponde al idioma que hablan allí </p>
+    </cell>
+    <cell type="final">
+     <style>
+      <color background="0x00FF00" />
+     </style>
+     <p>¡Buen Trabajo!</p>
+    </cell>
+    <cell type="finalError">
+     <style>
+      <color background="0x00FF00" />
+     </style>
+    </cell>
+   </messages>
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="24-resized1.jpg" tiled="true" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0x00FF00" border="true" />
+   </settings>
+   <cells rows="1" cols="5" cellWidth="150.0" cellHeight="167.0" border="true" id="primary">
+    <style>
+     <color background="0x00FF00" />
+    </style>
+    <shaper class="@Rectangular" cols="5" rows="1" />
+    <cell image="corea-resized.jpg" />
+    <cell image="30-resized.jpg" />
+    <cell image="egipto-resized.jpg" />
+    <cell image="flag-of-china-resized.jpg" />
+    <cell image="flag-of-indonesia-resized.jpg" />
+   </cells>
+   <cells rows="1" cols="5" cellWidth="150.0" cellHeight="167.0" border="true" id="secondary">
+    <style>
+     <color background="0x00FF00" />
+    </style>
+    <shaper class="@Rectangular" cols="5" rows="1" />
+    <cell image="WhatsApp Image (5)-resized.jpg">
+     <media type="PLAY_AUDIO" level="1" file="korean.mp3" />
+    </cell>
+    <cell image="WhatsApp Image (6)-resized.jpg">
+     <media type="PLAY_AUDIO" level="1" file="russian.mp3" />
+    </cell>
+    <cell image="WhatsApp Image (7)-resized.jpg">
+     <media type="PLAY_AUDIO" level="1" file="arabic.mp3" />
+    </cell>
+    <cell image="WhatsApp Image (8)-resized.jpg">
+     <media type="PLAY_AUDIO" level="1" file="mandarin.mp3" />
+    </cell>
+    <cell image="WhatsApp Image  (9)-resized.jpg">
+     <media type="PLAY_AUDIO" level="1" file="indonesian.mp3" />
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@panels.InformationScreen" name="3" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="false">
+    <container bgColor="0x0000FF">
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xC0C0C0" transparent="true" border="true" />
+   </settings>
+   <cells rows="1" cols="1" border="false" image="letrero de informacion-resized.jpg">
+    <style transparent="true">
+     <color background="0x0000FF" />
+    </style>
+    <shaper class="@Rectangular" cols="1" rows="1" />
+   </cells>
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="24-resized1.jpg" file="24-resized1.jpg" />
+  <media name="30-resized.jpg" file="30-resized.jpg" />
+  <media name="corea-resized.jpg" file="corea-resized.jpg" />
+  <media name="egipto-resized.jpg" file="egipto-resized.jpg" />
+  <media name="flag-of-china-resized.jpg" file="flag-of-china-resized.jpg" />
+  <media name="flag-of-indonesia-resized.jpg" file="flag-of-indonesia-resized.jpg" />
+  <media name="letrero de informacion-resized.jpg" file="letrero_de_informacion-resized.jpg" />
+  <media name="WhatsApp Image  (9)-resized.jpg" file="whatsapp_image___9_-resized.jpg" />
+  <media name="WhatsApp Image (5)-resized.jpg" file="whatsapp_image__5_-resized.jpg" />
+  <media name="WhatsApp Image (6)-resized.jpg" file="whatsapp_image__6_-resized.jpg" />
+  <media name="WhatsApp Image (7)-resized.jpg" file="whatsapp_image__7_-resized.jpg" />
+  <media name="WhatsApp Image (8)-resized.jpg" file="whatsapp_image__8_-resized.jpg" />
+  <media name="arabic.mp3" file="arabic.mp3" />
+  <media name="indonesian.mp3" file="indonesian.mp3" />
+  <media name="korean.mp3" file="korean.mp3" />
+  <media name="mandarin.mp3" file="mandarin.mp3" />
+  <media name="russian.mp3" file="russian.mp3" />
+ </mediaBag>
+</JClicProject>
+

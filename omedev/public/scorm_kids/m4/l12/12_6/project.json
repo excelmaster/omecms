@@ -1,0 +1,48 @@
+{
+  "title": "Limpiarme_1",
+  "date": "9/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "limpiarme_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 651136,
+  "files": [
+    "24-resized.jpg",
+    "captura5.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "comb_my_hair.mp3",
+    "cut_my_hands_and_feet_nails.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__5_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "limpiarme_1.jclic",
+    "limpiarme_1.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "put_on_sunscreen.mp3",
+    "sanitazer.mp3",
+    "wash_my_hair.mp3"
+  ]
+}

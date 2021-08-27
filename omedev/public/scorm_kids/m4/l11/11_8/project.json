@@ -1,0 +1,48 @@
+{
+  "title": "herramientas_1",
+  "date": "8/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "herramientas_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 458279,
+  "files": [
+    "11-01-5-resized.jpg",
+    "brush.mp3",
+    "captura5.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "favicon.ico",
+    "herramientas_1.jclic",
+    "herramientas_1.jclic.js",
+    "icon-192.png",
+    "icon-72.png",
+    "image__5_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "meter.mp3",
+    "plier.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "roller.mp3",
+    "screw.mp3"
+  ]
+}

@@ -1,0 +1,11 @@
+CRITICAL - 2021-06-16 22:08:10 --> Undefined variable: c
+#0 /var/www/html/ome/omecms/ome/app/Views/courses/index.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/View/View.php(230): include('/var/www/html/o...')
+#2 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render()
+#4 /var/www/html/ome/omecms/ome/app/Controllers/Courses.php(13): view()
+#5 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Courses->index()
+#6 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/ome/omecms/ome/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/ome/omecms/ome/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}

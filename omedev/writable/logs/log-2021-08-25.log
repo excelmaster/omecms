@@ -1,0 +1,26 @@
+CRITICAL - 2021-08-25 01:12:26 --> Cache unable to write to /var/www/html/ome/omecms/omedev/writable/cache/.
+#0 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Cache/Handlers/FileHandler.php(68): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite()
+#1 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Cache/CacheFactory.php(55): CodeIgniter\Cache\Handlers\FileHandler->__construct()
+#2 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/Services.php(110): CodeIgniter\Cache\CacheFactory::getHandler()
+#3 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic()
+#5 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance()
+#6 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#7 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic()
+#8 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/CodeIgniter.php(654): cache()
+#9 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/CodeIgniter.php(324): CodeIgniter\CodeIgniter->displayCache()
+#10 /var/www/html/ome/omecms/omedev/index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-08-25 01:13:57 --> Cache unable to write to /var/www/html/ome/omecms/omedev/writable/cache/.
+#0 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Cache/Handlers/FileHandler.php(68): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite()
+#1 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Cache/CacheFactory.php(55): CodeIgniter\Cache\Handlers\FileHandler->__construct()
+#2 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/Services.php(110): CodeIgniter\Cache\CacheFactory::getHandler()
+#3 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#4 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(192): CodeIgniter\Config\BaseService::__callStatic()
+#5 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/Services.php(105): CodeIgniter\Config\BaseService::getSharedInstance()
+#6 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Config/BaseService.php(263): CodeIgniter\Config\Services::cache()
+#7 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/Common.php(74): CodeIgniter\Config\BaseService::__callStatic()
+#8 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/CodeIgniter.php(654): cache()
+#9 /var/www/html/ome/omecms/omedev/vendor/codeigniter4/framework/system/CodeIgniter.php(324): CodeIgniter\CodeIgniter->displayCache()
+#10 /var/www/html/ome/omecms/omedev/index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}

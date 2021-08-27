@@ -1,0 +1,46 @@
+{
+  "title": "lug.colegio1_jclic",
+  "date": "11/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "lug.colegio1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 1055580,
+  "files": [
+    "29085-resized.jpg",
+    "art_room.mp3",
+    "captura10.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "computer_room.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion30k__10_-resized.jpg",
+    "leccion30k__6_-resized.jpg",
+    "leccion30k__7_-resized.jpg",
+    "leccion30k__8_-resized.jpg",
+    "leccion30k__9_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "library.mp3",
+    "lug.colegio1_jclic.jclic",
+    "lug.colegio1_jclic.jclic.js",
+    "playroom.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "toilet.mp3"
+  ]
+}

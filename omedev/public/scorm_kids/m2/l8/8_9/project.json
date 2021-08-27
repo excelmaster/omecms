@@ -1,0 +1,54 @@
+{
+  "title": "los juguetes",
+  "date": "24/03/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "mainFile": "los_juguetes.jclic",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 944521,
+  "files": [
+    "ball.mp3",
+    "captura2.png",
+    "car.mp3",
+    "doll.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "juguete-resized.jpg",
+    "juguete__10_-resized.jpg",
+    "juguete__18_-resized.jpg",
+    "juguete__19_-resized.jpg",
+    "juguete__1_-resized.jpg",
+    "juguete__20_-resized.jpg",
+    "juguete__2_-resized.jpg",
+    "juguete__3_-resized.jpg",
+    "juguete__4_-resized.jpg",
+    "juguete__5_-resized.jpg",
+    "juguete__6_-resized.jpg",
+    "juguete__7_-resized.jpg",
+    "juguete__8_-resized.jpg",
+    "juguete__9_-resized.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "los_juguetes.jclic",
+    "los_juguetes.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "robot.mp3",
+    "speedway.mp3",
+    "teddybear.mp3",
+    "train.mp3"
+  ]
+}

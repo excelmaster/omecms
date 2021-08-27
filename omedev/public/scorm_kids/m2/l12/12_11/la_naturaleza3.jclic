@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="la_naturaleza3" version="0.1.3">
+ <settings>
+  <title>la naturaleza2</title>
+  <revision description="created" date="3/31/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="1" navButtons="none" />
+  <item name="3" navButtons="none" />
+ </sequence>
+ <activities>
+  <activity class="@associations.SimpleAssociation" name="1" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <image name="paisaje-parque-natural-fondo-vacio_1308-44780.jpg" tiled="true" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xFFFF00" border="true" />
+   </settings>
+   <cells rows="1" cols="6" cellWidth="132.0" cellHeight="175.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="1" />
+    <cell id="0" image="natural (13)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+    <cell id="1" image="natural (14)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+    <cell id="2" image="natural (15)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+    <cell id="3" image="natural (16)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+    <cell id="4" image="natural (17)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+    <cell id="5" image="natural (19)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+    </cell>
+   </cells>
+   <cells rows="1" cols="6" cellWidth="132.0" cellHeight="175.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="6" rows="1" />
+    <cell id="0" image="image (81)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="sun.mp3" />
+    </cell>
+    <cell id="1" image="image (82)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="cloud.mp3" />
+    </cell>
+    <cell id="2" image="image (83)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="lake.mp3" />
+    </cell>
+    <cell id="3" image="image (84)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="pond.mp3" />
+    </cell>
+    <cell id="4" image="image (86)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="jungle.mp3" />
+    </cell>
+    <cell id="5" image="image (88)-resized.jpg">
+     <style borderStroke="0.7" markerStroke="5.0">
+      <color background="0x0000FF" />
+     </style>
+     <media type="PLAY_AUDIO" level="1" file="insects.mp3" />
+    </cell>
+   </cells>
+   <scramble times="31" primary="true" secondary="true" />
+   <layout position="AUB" />
+  </activity>
+  <activity class="@panels.InformationScreen" name="3" code="">
+   <description />
+   <messages />
+   <settings margin="8" report="false">
+    <container bgColor="0x0000FF">
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xC0C0C0" transparent="true" border="true" />
+   </settings>
+   <cells rows="1" cols="1" border="false" image="letrero de informacion-resized.jpg">
+    <style transparent="true">
+     <color background="0x0000FF" />
+    </style>
+    <shaper class="@Rectangular" cols="1" rows="1" />
+   </cells>
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="image (81)-resized.jpg" file="image__81_-resized.jpg" />
+  <media name="image (82)-resized.jpg" file="image__82_-resized.jpg" />
+  <media name="image (83)-resized.jpg" file="image__83_-resized.jpg" />
+  <media name="image (84)-resized.jpg" file="image__84_-resized.jpg" />
+  <media name="image (86)-resized.jpg" file="image__86_-resized.jpg" />
+  <media name="image (88)-resized.jpg" file="image__88_-resized.jpg" />
+  <media name="letrero de informacion-resized.jpg" file="letrero_de_informacion-resized.jpg" />
+  <media name="natural (13)-resized.jpg" file="natural__13_-resized.jpg" />
+  <media name="natural (14)-resized.jpg" file="natural__14_-resized.jpg" />
+  <media name="natural (15)-resized.jpg" file="natural__15_-resized.jpg" />
+  <media name="natural (16)-resized.jpg" file="natural__16_-resized.jpg" />
+  <media name="natural (17)-resized.jpg" file="natural__17_-resized.jpg" />
+  <media name="natural (19)-resized.jpg" file="natural__19_-resized.jpg" />
+  <media name="paisaje-parque-natural-fondo-vacio_1308-44780.jpg" file="paisaje-parque-natural-fondo-vacio_1308-44780.jpg" />
+  <media name="cloud.mp3" file="cloud.mp3" />
+  <media name="insects.mp3" file="insects.mp3" />
+  <media name="jungle.mp3" file="jungle.mp3" />
+  <media name="lake.mp3" file="lake.mp3" />
+  <media name="pond.mp3" file="pond.mp3" />
+  <media name="sun.mp3" file="sun.mp3" />
+ </mediaBag>
+</JClicProject>
+

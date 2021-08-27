@@ -1,0 +1,51 @@
+CRITICAL - 2021-06-25 09:49:02 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m1/l1/1_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 09:50:44 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m1/l1/1_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 09:50:48 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m1/l1/1_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 10:24:42 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l3/3_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 10:26:02 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l3/3_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 10:32:54 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_3/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:14:02 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l8/8_2/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:19:23 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_3/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:22:47 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_5/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:24:40 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_7/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:24:45 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_8/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:25:11 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_5/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:27:06 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_7/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:27:13 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_8/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:53:11 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_5/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:55:23 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_5/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-25 11:57:23 --> CodeIgniter\View\View::main(): Failed opening required 'https://form.mundoeducativodigital.com/scorm/kids/m4/l1/1_7/index.html' (include_path='.:/usr/share/php')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

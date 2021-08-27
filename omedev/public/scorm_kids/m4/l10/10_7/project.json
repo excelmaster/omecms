@@ -1,0 +1,48 @@
+{
+  "title": "elem-cocina_1",
+  "date": "8/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "elem-cocina_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 520814,
+  "files": [
+    "bowl.mp3",
+    "captura5.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "cup.mp3",
+    "cutlery.mp3",
+    "dish.mp3",
+    "elem-cocina_1.jclic",
+    "elem-cocina_1.jclic.js",
+    "favicon.ico",
+    "glass.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__5_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imagen_para_fondo-resized1.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

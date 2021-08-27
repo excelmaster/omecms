@@ -1,0 +1,37 @@
+{
+  "title": "numbers2",
+  "date": "19/01/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "mainFile": "numbersM1.jclic",
+  "activities": 4,
+  "mediaFiles": 11,
+  "totalSize": 283881,
+  "files": [
+    "7f20fea9af8edfd3e86fee1f099307cf-resized.jpg",
+    "bagon.png",
+    "bandera.png",
+    "cancha.jpg",
+    "carro1.jpg",
+    "decoracion.jpg",
+    "descarga.jpg",
+    "descarga__2_.png",
+    "descarga__4_.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion_2-resized.jpg",
+    "numbersM1.jclic",
+    "numbersM1.jclic.js",
+    "project.json",
+    "tren.png"
+  ]
+}

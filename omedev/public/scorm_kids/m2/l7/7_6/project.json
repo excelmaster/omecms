@@ -1,0 +1,46 @@
+{
+  "title": "las figuras geometriacas",
+  "date": "23/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_figuras_geometriacas.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 553249,
+  "files": [
+    "22.1triangulo.mp3",
+    "22.2pentagono.mp3",
+    "22.3cuadrado.mp3",
+    "22.4rombo.mp3",
+    "22.5circulo.mp3",
+    "5025160-resized.jpg",
+    "favicon.ico",
+    "figura-resized.jpg",
+    "figura__10_-resized.jpg",
+    "figura__1_-resized.jpg",
+    "figura__2_-resized.jpg",
+    "figura__3_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image-resized.jpg",
+    "image__10_-resized.jpg",
+    "image__1_-resized.jpg",
+    "image__2_-resized.jpg",
+    "image__3_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_figuras_geometriacas.jclic",
+    "las_figuras_geometriacas.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

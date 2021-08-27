@@ -1,0 +1,46 @@
+{
+  "title": "Limpiarme",
+  "date": "9/06/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "limpiarme.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 702959,
+  "files": [
+    "24-resized.jpg",
+    "brush_my_teeth.mp3",
+    "captura.png",
+    "captura1.png",
+    "captura2.png",
+    "captura3.png",
+    "captura4.png",
+    "clean_bihind_my_ears.mp3",
+    "clean_my_neals.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "image__1_.png",
+    "image__2_.png",
+    "image__3_.png",
+    "image__4_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "limpiarme.jclic",
+    "limpiarme.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "take_a_shower.mp3",
+    "wash_my_hands.mp3"
+  ]
+}

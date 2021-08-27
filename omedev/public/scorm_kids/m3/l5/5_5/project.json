@@ -1,0 +1,52 @@
+{
+  "title": "alfabeto_jclic",
+  "date": "6/05/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "alfabeto_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 1080270,
+  "files": [
+    "1.1a.mp3",
+    "1.2b.mp3",
+    "1.3c.mp3",
+    "1.4d.mp3",
+    "1.5e.mp3",
+    "1.6f.mp3",
+    "1.7g.mp3",
+    "60439-resized.jpg",
+    "a-resized.jpg",
+    "a__1_-resized.jpg",
+    "a__2_-resized.jpg",
+    "a__3_-resized.jpg",
+    "a__4_-resized.jpg",
+    "a__5_-resized.jpg",
+    "a__6_-resized.jpg",
+    "alfa-resized.jpg",
+    "alfa__1_-resized.jpg",
+    "alfa__2_-resized.jpg",
+    "alfa__3_-resized.jpg",
+    "alfa__4_-resized.jpg",
+    "alfa__5_-resized.jpg",
+    "alfa__6_-resized.jpg",
+    "alfabeto_jclic.jclic",
+    "alfabeto_jclic.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

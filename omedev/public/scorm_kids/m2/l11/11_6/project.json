@@ -1,0 +1,49 @@
+{
+  "title": "los utiles2",
+  "date": "30/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_utiles2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 668626,
+  "files": [
+    "4103239-resized.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__47_-resized1.jpg",
+    "image__65_-resized1.jpg",
+    "image__66_-resized1.jpg",
+    "image__67_-resized1.jpg",
+    "image__68_-resized1.jpg",
+    "image__69_-resized1.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "los_utiles2.jclic",
+    "los_utiles2.jclic.js",
+    "marker.mp3",
+    "overall.mp3",
+    "paint.mp3",
+    "paintbrush.mp3",
+    "paper.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rubber_stamp.mp3",
+    "utiles-resized.jpg",
+    "utiles__15_-resized.jpg",
+    "utiles__16_-resized1.jpg",
+    "utiles__17_-resized1.jpg",
+    "utiles__18_-resized1.jpg",
+    "utiles__1_-resized1.jpg"
+  ]
+}

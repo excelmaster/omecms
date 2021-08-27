@@ -1,0 +1,52 @@
+{
+  "title": "comidaRapidak1_jclic",
+  "date": "1/06/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "comidarapidak1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 937089,
+  "files": [
+    "606-resized.jpg",
+    "biscuite.mp3",
+    "cake.mp3",
+    "captura10.png",
+    "captura11.png",
+    "captura12.png",
+    "captura13.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "chocolate.mp3",
+    "comidarapidak1_jclic.jclic",
+    "comidarapidak1_jclic.jclic.js",
+    "favicon.ico",
+    "ice-cream.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__10_.png",
+    "image__11_.png",
+    "image__12_.png",
+    "image__13_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "milkshake.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "soda.mp3",
+    "spaghetti.mp3"
+  ]
+}

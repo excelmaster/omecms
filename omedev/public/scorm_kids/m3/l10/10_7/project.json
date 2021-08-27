@@ -1,0 +1,47 @@
+{
+  "title": "parque1_jclic",
+  "date": "11/05/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "parque1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 21,
+  "totalSize": 906269,
+  "files": [
+    "10.png",
+    "11-01-5-resized.jpg",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "favicon.ico",
+    "field.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leccion34k__5_-resized.jpg",
+    "leccion34k__6_-resized.jpg",
+    "leccion34k__7_-resized.jpg",
+    "leccion34k__8_-resized.jpg",
+    "leccion34k__9_-resized.jpg",
+    "parque1_jclic.jclic",
+    "parque1_jclic.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "seesaw.mp3",
+    "slope.mp3",
+    "swing.mp3",
+    "wall_climb.mp3"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "los_juguetes1",
+  "date": "24/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "los_juguetes1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 27,
+  "totalSize": 866786,
+  "files": [
+    "bycicle.mp3",
+    "captura2.png",
+    "favicon.ico",
+    "fresbee.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "juguete__11_-resized.jpg",
+    "juguete__12_-resized.jpg",
+    "juguete__13_-resized.jpg",
+    "juguete__14_-resized.jpg",
+    "juguete__15_-resized.jpg",
+    "juguete__16_-resized.jpg",
+    "juguete__17_-resized.jpg",
+    "juguete__21_-resized.jpg",
+    "juguete__22_-resized3.jpg",
+    "juguete__24_-resized3.jpg",
+    "juguete__25_-resized2.jpg",
+    "juguete__26_-resized2.jpg",
+    "juguete__27_-resized.jpg",
+    "juguete__28_-resized2.jpg",
+    "letrero_de_informacion-resized.jpg",
+    "los_juguetes1.jclic",
+    "los_juguetes1.jclic.js",
+    "plain.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "scooter.mp3",
+    "skateboard.mp3",
+    "skates.mp3"
+  ]
+}

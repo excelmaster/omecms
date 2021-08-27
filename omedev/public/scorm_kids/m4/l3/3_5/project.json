@@ -1,0 +1,46 @@
+{
+  "title": "idioma1_jclic",
+  "date": "1/06/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "idioma1_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 600088,
+  "files": [
+    "24-resized1.jpg",
+    "30-resized.jpg",
+    "arabic.mp3",
+    "corea-resized.jpg",
+    "egipto-resized.jpg",
+    "favicon.ico",
+    "flag-of-china-resized.jpg",
+    "flag-of-indonesia-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "idioma1_jclic.jclic",
+    "idioma1_jclic.jclic.js",
+    "imsmanifest.xml",
+    "index.html",
+    "indonesian.mp3",
+    "korean.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "mandarin.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "russian.mp3",
+    "whatsapp_image__5_-resized.jpg",
+    "whatsapp_image__6_-resized.jpg",
+    "whatsapp_image__7_-resized.jpg",
+    "whatsapp_image__8_-resized.jpg",
+    "whatsapp_image___9_-resized.jpg"
+  ]
+}

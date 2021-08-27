@@ -1,0 +1,49 @@
+{
+  "title": "la naturaleza1",
+  "date": "31/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "la_naturaleza1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 788529,
+  "files": [
+    "cave.mp3",
+    "favicon.ico",
+    "forest.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__76_-resized.jpg",
+    "image__77_-resized.jpg",
+    "image__78_-resized.jpg",
+    "image__79_-resized.jpg",
+    "image__80_-resized.jpg",
+    "image__95_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "island.mp3",
+    "la_naturaleza1.jclic",
+    "la_naturaleza1.jclic.js",
+    "leaf.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "natural__10_-resized.jpg",
+    "natural__11_-resized.jpg",
+    "natural__12_-resized.jpg",
+    "natural__7_-resized.jpg",
+    "natural__8_-resized.jpg",
+    "natural__9_-resized.jpg",
+    "ocean.mp3",
+    "paisaje-parque-natural-fondo-vacio_1308-44780.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "waterfall.mp3"
+  ]
+}

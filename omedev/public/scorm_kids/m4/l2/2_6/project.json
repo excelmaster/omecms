@@ -1,0 +1,51 @@
+{
+  "title": "paises1jclic",
+  "date": "1/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "paises1jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 25,
+  "totalSize": 746203,
+  "files": [
+    "11-01-5-resized.jpg",
+    "australia.mp3",
+    "favicon.ico",
+    "ficha__10_-resized.jpg",
+    "ficha__11_-resized.jpg",
+    "ficha__6_-resized.jpg",
+    "ficha__7_-resized.jpg",
+    "ficha__8_-resized.jpg",
+    "ficha__9_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "image__11__-resized.jpg",
+    "image__6_-resized.jpg",
+    "image__9__-resized.jpg",
+    "image___10_-resized.jpg",
+    "image___7_-resized.jpg",
+    "image___8_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "indonesia.mp3",
+    "italy.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "new_zeland.mp3",
+    "paises1jclic.jclic",
+    "paises1jclic.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "south_corea.mp3",
+    "united_kingdom.mp3"
+  ]
+}

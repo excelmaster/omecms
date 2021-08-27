@@ -1,0 +1,46 @@
+{
+  "title": "electrodomésticosk_1",
+  "date": "2/06/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "electrodomesticosk_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 530292,
+  "files": [
+    "3077-resized.jpg",
+    "captura10.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "coffee_maker.mp3",
+    "electrodomesticosk_1.jclic",
+    "electrodomesticosk_1.jclic.js",
+    "fan3.mp3",
+    "favicon.ico",
+    "fridge.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image__10_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "lamp.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "vacuum_cleaner.mp3"
+  ]
+}

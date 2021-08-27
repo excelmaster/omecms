@@ -1,0 +1,43 @@
+{
+  "title": "exp_tiempok_1",
+  "date": "8/07/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "exp_tiempok_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 19,
+  "totalSize": 667621,
+  "files": [
+    "11-01-5-resized.jpg",
+    "at_night_.mp3",
+    "exp_tiempok_1.jclic",
+    "exp_tiempok_1.jclic.js",
+    "favicon.ico",
+    "ficha__10_-resized.jpg",
+    "ficha__11_-resized.jpg",
+    "ficha__6_-resized.jpg",
+    "ficha__7_-resized.jpg",
+    "ficha__8_-resized.jpg",
+    "ficha__9_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "last_summer.mp3",
+    "letrero_de_informacion-resized.jpg",
+    "next_autumn.mp3",
+    "on_monday.mp3",
+    "on_weekday.mp3",
+    "on_weekend.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

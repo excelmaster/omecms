@@ -1,0 +1,41 @@
+{
+  "title": "los dÃ­as de la semana1",
+  "date": "15/03/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "mainFile": "los_dias_de_la_semana1.jclic",
+  "activities": 1,
+  "mediaFiles": 15,
+  "totalSize": 366964,
+  "files": [
+    "19.1sunday.mp3",
+    "19.5saturday.mp3",
+    "19.7friday.mp3",
+    "660-resized.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "los_dias_de_la_semana1.jclic",
+    "los_dias_de_la_semana1.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "semana__4_-resized.jpg",
+    "semana__5_-resized.jpg",
+    "semana__6_-resized.jpg",
+    "semana__7_-resized.jpg",
+    "semana__8_-resized.jpg",
+    "semana__9_-resized.jpg"
+  ]
+}

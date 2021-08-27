@@ -1,0 +1,48 @@
+{
+  "title": "obj.casa_1",
+  "date": "4/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "obj.casa_1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 525252,
+  "files": [
+    "bed.mp3",
+    "captura10.png",
+    "captura6.png",
+    "captura7.png",
+    "captura8.png",
+    "captura9.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image__10_.png",
+    "image__6_.png",
+    "image__7_.png",
+    "image__8_.png",
+    "image__9_.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "obj.casa_1.jclic",
+    "obj.casa_1.jclic.js",
+    "parque-infantil-blanco-toboganes-escena_1308-53112.jpg",
+    "pillow.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "table_top.mp3",
+    "towell.mp3",
+    "vase.mp3"
+  ]
+}

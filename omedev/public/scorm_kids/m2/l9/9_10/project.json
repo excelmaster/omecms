@@ -1,0 +1,52 @@
+{
+  "title": "las frutas",
+  "date": "26/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "las_frutas.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 28,
+  "totalSize": 589973,
+  "files": [
+    "20046-resized.jpg",
+    "apple.mp3",
+    "banana.mp3",
+    "cherry.mp3",
+    "favicon.ico",
+    "frutas_-resized.jpg",
+    "frutas___1_-resized.jpg",
+    "frutas___2_-resized.jpg",
+    "frutas___3_-resized.jpg",
+    "frutas___4_-resized.jpg",
+    "frutas___5_-resized.jpg",
+    "frutas___6_-resized.jpg",
+    "grape.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "image-resized.jpg",
+    "image__1_-resized.jpg",
+    "image__2_-resized.jpg",
+    "image__3_-resized.jpg",
+    "image__4_-resized.jpg",
+    "image__5_-resized.jpg",
+    "image__6_-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "las_frutas.jclic",
+    "las_frutas.jclic.js",
+    "letrero_de_informacion-resized.jpg",
+    "peach.mp3",
+    "pear.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "strawberry.mp3"
+  ]
+}

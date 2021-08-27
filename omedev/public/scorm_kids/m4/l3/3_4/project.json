@@ -1,0 +1,48 @@
+{
+  "title": "idioma_jclic",
+  "date": "1/06/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "idioma_jclic.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 22,
+  "totalSize": 701201,
+  "files": [
+    "24-resized.jpg",
+    "alemania-resized.jpg",
+    "brazil-resized.jpg",
+    "english.mp3",
+    "favicon.ico",
+    "flag-of-france-resized.jpg",
+    "flag-of-spain-resized.jpg",
+    "flag-of-usa-silk-close-up-resized.jpg",
+    "french.mp3",
+    "german.mp3",
+    "icon-192.png",
+    "icon-72.png",
+    "idioma_jclic.jclic",
+    "idioma_jclic.jclic.js",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "portuguese.mp3",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "spanish.mp3",
+    "whatsapp_image__-resized.jpg",
+    "whatsapp_image__1_-resized.jpg",
+    "whatsapp_image__3_-resized.jpg",
+    "whatsapp_image__4_-resized.jpg",
+    "whatsapp_image___2_-resized.jpg"
+  ]
+}

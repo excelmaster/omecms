@@ -1,0 +1,43 @@
+{
+  "title": "exp_tiempok",
+  "date": "8/07/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "exp_tiempok.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 19,
+  "totalSize": 613147,
+  "files": [
+    "11-01-5-resized.jpg",
+    "exp_tiempok.jclic",
+    "exp_tiempok.jclic.js",
+    "favicon.ico",
+    "ficha-resized.jpg",
+    "ficha__1_-resized.jpg",
+    "ficha__2_-resized.jpg",
+    "ficha__3_-resized.jpg",
+    "ficha__4_-resized.jpg",
+    "ficha__5_-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "letrero_de_informacion-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "this_afternoon.mp3",
+    "today.mp3",
+    "tomorrow.mp3",
+    "tomorrow_night.mp3",
+    "yesterday.mp3",
+    "yesterday_morning.mp3"
+  ]
+}
